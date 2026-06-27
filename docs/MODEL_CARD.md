@@ -2,7 +2,7 @@
 
 ## Intended use
 
-Screening photographs of maize, cassava, and cashew leaves captured in Ghana.
+Screening photographs of maize, cassava, cashew, and tomato leaves captured in Ghana.
 The model is not a laboratory test, does not replace an extension officer, and
 must not be used as the sole basis for pesticide application.
 
@@ -39,4 +39,3 @@ pathology expert.
 No trained weights, verified class inventory, calibration study, field/OOD test,
 near-duplicate audit, or agronomist-reviewed treatment dataset is included in
 this source repository yet. Debug demo mode always abstains.
-

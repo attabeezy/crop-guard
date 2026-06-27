@@ -44,18 +44,17 @@ The **Ghana AI Innovation Challenge 2026** invites AI solutions to local problem
 
 ## 3. Scope (locked)
 
-**Crops covered: Maize, Cassava, Cashew** — all sourced from the CCMT Ghana dataset.
-
-- **Tomato** is an optional stretch (also in CCMT) if we finish early.
+**Crops covered: Maize, Cassava, Cashew, Tomato** — all sourced from the CCMT Ghana dataset.
 - **Cocoa was considered and dropped.** CCMT has no cocoa data, and a non-Ghanaian cocoa dataset would introduce documentation and generalization caveats we don't need. Dropping it means *every* crop we ship is real Ghanaian field data with a citable source and a real Ghanaian authority behind its treatment advice — a clean story with no asterisks.
 
-**Why these three are coherent:** they split cleanly across Ghana's two relevant authorities, so our treatment advice is institutionally grounded for every crop:
+**Why these four are coherent:** they split cleanly across Ghana's two relevant authorities, so our treatment advice can be institutionally grounded for every crop:
 
 | Crop | Data source | Treatment authority |
 |---|---|---|
 | Maize | CCMT (Ghana) | MOFA – PPRSD |
 | Cassava | CCMT (Ghana) | MOFA – PPRSD |
 | Cashew | CCMT (Ghana) | COCOBOD / CRIG (cashew is an official COCOBOD mandate crop) |
+| Tomato | CCMT (Ghana) | MOFA – PPRSD |
 
 There's also a timely economic hook: with cocoa prices falling, Ghana is actively pushing crop diversification into **cashew**, so a tool that protects cashew farmers rides a real national policy priority.
 
@@ -150,7 +149,7 @@ What we **keep** from the original: the offline-first edge approach, the COCOBOD
 - Confirm final team roster and role assignments.
 - Decide whether to collect a small set of our own field photos (30–50) for an out-of-distribution / Ghanaian-validation test — high value if feasible before the deadline.
 - Confirm exact disease classes per crop once we inspect the CCMT folders.
-- Whether to include tomato (stretch).
+- Confirm the Kaggle mirror's tomato count discrepancy against the authoritative Mendeley archive.
 
 ---
 

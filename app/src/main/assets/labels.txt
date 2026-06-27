@@ -2,13 +2,23 @@
 # Canonical format: crop|machine_class|farmer-facing name
 maize|healthy|Healthy maize
 maize|fall_armyworm|Fall armyworm damage
+maize|grasshopper|Grasshopper damage
+maize|leaf_beetle|Leaf beetle damage
 maize|leaf_blight|Maize leaf blight
 maize|leaf_spot|Maize leaf spot
 maize|streak_virus|Maize streak virus
 cassava|healthy|Healthy cassava
-cassava|mosaic_disease|Cassava mosaic disease
-cassava|brown_streak|Cassava brown streak disease
+cassava|bacterial_blight|Cassava bacterial blight
+cassava|brown_spot|Cassava brown spot
+cassava|green_mite|Cassava green mite damage
+cassava|mosaic|Cassava mosaic disease
 cashew|healthy|Healthy cashew
 cashew|anthracnose|Cashew anthracnose
+cashew|gummosis|Cashew gummosis
 cashew|leaf_miner|Cashew leaf miner damage
-
+cashew|red_rust|Cashew red rust
+tomato|healthy|Healthy tomato
+tomato|leaf_blight|Tomato leaf blight
+tomato|leaf_curl|Tomato leaf curl
+tomato|septoria_leaf_spot|Tomato septoria leaf spot
+tomato|verticillium_wilt|Tomato verticillium wilt

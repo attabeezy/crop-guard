@@ -83,7 +83,7 @@ public final class MainActivity extends AppCompatActivity {
 
         root.addView(text("1  Select crop", 18, true));
         cropSpinner = new Spinner(this);
-        String[] crops = {"Maize", "Cassava", "Cashew"};
+        String[] crops = {"Maize", "Cassava", "Cashew", "Tomato"};
         cropSpinner.setAdapter(new ArrayAdapter<>(this,
                 android.R.layout.simple_spinner_dropdown_item, crops));
         root.addView(cropSpinner, matchWrap());

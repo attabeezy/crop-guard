@@ -1,0 +1,38 @@
+{
+  "created_utc": "2026-06-27T02:34:16.381049+00:00",
+  "source": {
+    "kaggle_handle": "nirmalsankalana/crop-pest-and-disease-detection",
+    "kaggle_version": "1",
+    "authoritative_doi": "10.17632/bwh3zbpkpv.1",
+    "license": "CC BY 4.0"
+  },
+  "seed": 2026,
+  "class_count": 22,
+  "discovered_images": 25220,
+  "valid_images": 25126,
+  "unique_images_in_splits": 24071,
+  "corrupt_images": 94,
+  "exact_duplicate_copies": 831,
+  "near_duplicate_pairs": 1225,
+  "cross_label_exact_conflicts": 224,
+  "published_counts": {
+    "cashew": 6549,
+    "cassava": 7508,
+    "maize": 5389,
+    "tomato": 5435
+  },
+  "observed_counts": {
+    "cashew": 6549,
+    "cassava": 7508,
+    "maize": 5289,
+    "tomato": 5780
+  },
+  "split_counts": {
+    "train": 16845,
+    "validation": 2415,
+    "test": 4811
+  },
+  "max_class_split_ratio_deviation": 0.018199608610567575,
+  "python": "3.12.13",
+  "status": "review_required"
+}

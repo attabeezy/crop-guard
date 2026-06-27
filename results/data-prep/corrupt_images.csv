@@ -1,0 +1,95 @@
+path,crop,class,label,sha256,dhash,width,height,bytes,error
+Maize healthy/healthy189_.jpg,maize,healthy,maize|healthy,,,,,49330,OSError: broken data stream when reading image file
+Maize healthy/healthy18_.jpg,maize,healthy,maize|healthy,,,,,59104,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize healthy/healthy18_.jpg'
+Maize healthy/healthy87_.jpg,maize,healthy,maize|healthy,,,,,45663,OSError: broken data stream when reading image file
+Maize healthy/healthy88_.jpg,maize,healthy,maize|healthy,,,,,45744,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize healthy/healthy88_.jpg'
+Maize leaf beetle/leaf beetle206_.jpg,maize,leaf_beetle,maize|leaf_beetle,,,,,29677,OSError: broken data stream when reading image file
+Maize leaf beetle/leaf beetle207_.jpg,maize,leaf_beetle,maize|leaf_beetle,,,,,30685,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf beetle/leaf beetle207_.jpg'
+Maize leaf beetle/leaf beetle208_.jpg,maize,leaf_beetle,maize|leaf_beetle,,,,,29248,OSError: Truncated File Read
+Maize leaf beetle/leaf beetle326_.jpg,maize,leaf_beetle,maize|leaf_beetle,,,,,20228,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf beetle/leaf beetle326_.jpg'
+Maize leaf beetle/leaf beetle457_.jpg,maize,leaf_beetle,maize|leaf_beetle,,,,,44587,OSError: broken data stream when reading image file
+Maize leaf beetle/leaf beetle458_.jpg,maize,leaf_beetle,maize|leaf_beetle,,,,,38585,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf beetle/leaf beetle458_.jpg'
+Maize leaf beetle/leaf beetle572_.jpg,maize,leaf_beetle,maize|leaf_beetle,,,,,37936,OSError: broken data stream when reading image file
+Maize leaf beetle/leaf beetle573_.jpg,maize,leaf_beetle,maize|leaf_beetle,,,,,31895,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf beetle/leaf beetle573_.jpg'
+Maize leaf beetle/leaf beetle68_.jpg,maize,leaf_beetle,maize|leaf_beetle,,,,,31277,OSError: broken data stream when reading image file
+Maize leaf beetle/leaf beetle690_.jpg,maize,leaf_beetle,maize|leaf_beetle,,,,,30707,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf beetle/leaf beetle690_.jpg'
+Maize leaf beetle/leaf beetle691_.jpg,maize,leaf_beetle,maize|leaf_beetle,,,,,49630,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf beetle/leaf beetle691_.jpg'
+Maize leaf beetle/leaf beetle797_.jpg,maize,leaf_beetle,maize|leaf_beetle,,,,,27548,OSError: broken data stream when reading image file
+Maize leaf beetle/leaf beetle798_.jpg,maize,leaf_beetle,maize|leaf_beetle,,,,,34538,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf beetle/leaf beetle798_.jpg'
+Maize leaf beetle/leaf beetle90_.jpg,maize,leaf_beetle,maize|leaf_beetle,,,,,25513,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf beetle/leaf beetle90_.jpg'
+Maize leaf beetle/leaf beetle910_.jpg,maize,leaf_beetle,maize|leaf_beetle,,,,,38031,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf beetle/leaf beetle910_.jpg'
+Maize leaf blight/leaf blight379_.jpg,maize,leaf_blight,maize|leaf_blight,,,,,62906,OSError: broken data stream when reading image file
+Maize leaf blight/leaf blight37_.jpg,maize,leaf_blight,maize|leaf_blight,,,,,47945,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf blight/leaf blight37_.jpg'
+Maize leaf blight/leaf blight452_.jpg,maize,leaf_blight,maize|leaf_blight,,,,,73741,OSError: broken data stream when reading image file
+Maize leaf blight/leaf blight453_.jpg,maize,leaf_blight,maize|leaf_blight,,,,,44503,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf blight/leaf blight453_.jpg'
+Maize leaf blight/leaf blight522_.jpg,maize,leaf_blight,maize|leaf_blight,,,,,74032,OSError: broken data stream when reading image file
+Maize leaf blight/leaf blight58_.jpg,maize,leaf_blight,maize|leaf_blight,,,,,52262,OSError: broken data stream when reading image file
+Maize leaf blight/leaf blight590_.jpg,maize,leaf_blight,maize|leaf_blight,,,,,73424,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf blight/leaf blight590_.jpg'
+Maize leaf blight/leaf blight666_.jpg,maize,leaf_blight,maize|leaf_blight,,,,,57652,OSError: broken data stream when reading image file
+Maize leaf blight/leaf blight667_.jpg,maize,leaf_blight,maize|leaf_blight,,,,,59140,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf blight/leaf blight667_.jpg'
+Maize leaf blight/leaf blight745_.jpg,maize,leaf_blight,maize|leaf_blight,,,,,63100,OSError: broken data stream when reading image file
+Maize leaf blight/leaf blight746_.jpg,maize,leaf_blight,maize|leaf_blight,,,,,64243,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf blight/leaf blight746_.jpg'
+Maize leaf blight/leaf blight82_.jpg,maize,leaf_blight,maize|leaf_blight,,,,,43404,OSError: broken data stream when reading image file
+Maize leaf blight/leaf blight830_.jpg,maize,leaf_blight,maize|leaf_blight,,,,,49478,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf blight/leaf blight830_.jpg'
+Maize leaf blight/leaf blight912_.jpg,maize,leaf_blight,maize|leaf_blight,,,,,62521,OSError: broken data stream when reading image file
+Maize leaf blight/leaf blight913_.jpg,maize,leaf_blight,maize|leaf_blight,,,,,52309,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf blight/leaf blight913_.jpg'
+Maize leaf blight/leaf blight98_.jpg,maize,leaf_blight,maize|leaf_blight,,,,,59639,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf blight/leaf blight98_.jpg'
+Maize leaf spot/leaf spot186_.jpg,maize,leaf_spot,maize|leaf_spot,,,,,60772,OSError: broken data stream when reading image file
+Maize leaf spot/leaf spot187_.jpg,maize,leaf_spot,maize|leaf_spot,,,,,65220,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf spot/leaf spot187_.jpg'
+Maize leaf spot/leaf spot271_.jpg,maize,leaf_spot,maize|leaf_spot,,,,,60309,OSError: broken data stream when reading image file
+Maize leaf spot/leaf spot272_.jpg,maize,leaf_spot,maize|leaf_spot,,,,,66153,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf spot/leaf spot272_.jpg'
+Maize leaf spot/leaf spot353_.jpg,maize,leaf_spot,maize|leaf_spot,,,,,44878,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf spot/leaf spot353_.jpg'
+Maize leaf spot/leaf spot424_.jpg,maize,leaf_spot,maize|leaf_spot,,,,,83817,OSError: broken data stream when reading image file
+Maize leaf spot/leaf spot425_.jpg,maize,leaf_spot,maize|leaf_spot,,,,,72048,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf spot/leaf spot425_.jpg'
+Maize leaf spot/leaf spot496_.jpg,maize,leaf_spot,maize|leaf_spot,,,,,65090,OSError: broken data stream when reading image file
+Maize leaf spot/leaf spot497_.jpg,maize,leaf_spot,maize|leaf_spot,,,,,67886,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf spot/leaf spot497_.jpg'
+Maize leaf spot/leaf spot578_.jpg,maize,leaf_spot,maize|leaf_spot,,,,,92727,OSError: broken data stream when reading image file
+Maize leaf spot/leaf spot649_.jpg,maize,leaf_spot,maize|leaf_spot,,,,,56421,OSError: broken data stream when reading image file
+Maize leaf spot/leaf spot64_.jpg,maize,leaf_spot,maize|leaf_spot,,,,,63048,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf spot/leaf spot64_.jpg'
+Maize leaf spot/leaf spot723_.jpg,maize,leaf_spot,maize|leaf_spot,,,,,56187,OSError: broken data stream when reading image file
+Maize leaf spot/leaf spot724_.jpg,maize,leaf_spot,maize|leaf_spot,,,,,51346,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf spot/leaf spot724_.jpg'
+Maize leaf spot/leaf spot798_.jpg,maize,leaf_spot,maize|leaf_spot,,,,,62407,OSError: broken data stream when reading image file
+Maize leaf spot/leaf spot799_.jpg,maize,leaf_spot,maize|leaf_spot,,,,,50766,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf spot/leaf spot799_.jpg'
+Maize leaf spot/leaf spot881_.jpg,maize,leaf_spot,maize|leaf_spot,,,,,61595,OSError: broken data stream when reading image file
+Maize leaf spot/leaf spot882_.jpg,maize,leaf_spot,maize|leaf_spot,,,,,79500,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf spot/leaf spot882_.jpg'
+Maize leaf spot/leaf spot957_.jpg,maize,leaf_spot,maize|leaf_spot,,,,,51122,OSError: broken data stream when reading image file
+Maize leaf spot/leaf spot958_.jpg,maize,leaf_spot,maize|leaf_spot,,,,,59038,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize leaf spot/leaf spot958_.jpg'
+Maize streak virus/streak virus118_.jpg,maize,streak_virus,maize|streak_virus,,,,,58527,OSError: broken data stream when reading image file
+Maize streak virus/streak virus119_.jpg,maize,streak_virus,maize|streak_virus,,,,,65517,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize streak virus/streak virus119_.jpg'
+Maize streak virus/streak virus421_.jpg,maize,streak_virus,maize|streak_virus,,,,,76885,OSError: broken data stream when reading image file
+Maize streak virus/streak virus422_.jpg,maize,streak_virus,maize|streak_virus,,,,,73722,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize streak virus/streak virus422_.jpg'
+Maize streak virus/streak virus485_.jpg,maize,streak_virus,maize|streak_virus,,,,,58368,OSError: broken data stream when reading image file
+Maize streak virus/streak virus486_.jpg,maize,streak_virus,maize|streak_virus,,,,,72987,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize streak virus/streak virus486_.jpg'
+Maize streak virus/streak virus554_.jpg,maize,streak_virus,maize|streak_virus,,,,,77657,OSError: broken data stream when reading image file
+Maize streak virus/streak virus626_.jpg,maize,streak_virus,maize|streak_virus,,,,,50508,OSError: broken data stream when reading image file
+Maize streak virus/streak virus627_.jpg,maize,streak_virus,maize|streak_virus,,,,,52838,OSError: Truncated File Read
+Maize streak virus/streak virus701_.jpg,maize,streak_virus,maize|streak_virus,,,,,63894,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize streak virus/streak virus701_.jpg'
+Maize streak virus/streak virus773_.jpg,maize,streak_virus,maize|streak_virus,,,,,59027,OSError: broken data stream when reading image file
+Maize streak virus/streak virus774_.jpg,maize,streak_virus,maize|streak_virus,,,,,65359,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize streak virus/streak virus774_.jpg'
+Maize streak virus/streak virus997_.jpg,maize,streak_virus,maize|streak_virus,,,,,43741,OSError: broken data stream when reading image file
+Maize streak virus/streak virus998_.jpg,maize,streak_virus,maize|streak_virus,,,,,38378,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Maize streak virus/streak virus998_.jpg'
+Tomato healthy/healthy442_.jpg,tomato,healthy,tomato|healthy,,,,,38928,OSError: broken data stream when reading image file
+Tomato healthy/healthy443_.jpg,tomato,healthy,tomato|healthy,,,,,47906,OSError: Truncated File Read
+Tomato healthy/healthy76_.jpg,tomato,healthy,tomato|healthy,,,,,53532,OSError: broken data stream when reading image file
+Tomato healthy/healthy77_.jpg,tomato,healthy,tomato|healthy,,,,,57337,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Tomato healthy/healthy77_.jpg'
+Tomato leaf blight/leaf blight1232_.jpg,tomato,leaf_blight,tomato|leaf_blight,,,,,43751,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Tomato leaf blight/leaf blight1232_.jpg'
+Tomato leaf blight/leaf blight386_.jpg,tomato,leaf_blight,tomato|leaf_blight,,,,,56311,OSError: broken data stream when reading image file
+Tomato leaf blight/leaf blight470_.jpg,tomato,leaf_blight,tomato|leaf_blight,,,,,48853,OSError: broken data stream when reading image file
+Tomato leaf blight/leaf blight471_.jpg,tomato,leaf_blight,tomato|leaf_blight,,,,,58201,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Tomato leaf blight/leaf blight471_.jpg'
+Tomato leaf blight/leaf blight558_.jpg,tomato,leaf_blight,tomato|leaf_blight,,,,,39891,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Tomato leaf blight/leaf blight558_.jpg'
+Tomato leaf blight/leaf blight644_.jpg,tomato,leaf_blight,tomato|leaf_blight,,,,,51662,OSError: broken data stream when reading image file
+Tomato leaf blight/leaf blight645_.jpg,tomato,leaf_blight,tomato|leaf_blight,,,,,43308,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Tomato leaf blight/leaf blight645_.jpg'
+Tomato leaf blight/leaf blight72_.jpg,tomato,leaf_blight,tomato|leaf_blight,,,,,55182,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Tomato leaf blight/leaf blight72_.jpg'
+Tomato leaf blight/leaf blight813_.jpg,tomato,leaf_blight,tomato|leaf_blight,,,,,56462,OSError: broken data stream when reading image file
+Tomato leaf blight/leaf blight814_.jpg,tomato,leaf_blight,tomato|leaf_blight,,,,,56858,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Tomato leaf blight/leaf blight814_.jpg'
+Tomato leaf blight/leaf blight8_.jpg,tomato,leaf_blight,tomato|leaf_blight,,,,,54332,OSError: broken data stream when reading image file
+Tomato leaf blight/leaf blight997_.jpg,tomato,leaf_blight,tomato|leaf_blight,,,,,65427,OSError: broken data stream when reading image file
+Tomato leaf blight/leaf blight998_.jpg,tomato,leaf_blight,tomato|leaf_blight,,,,,62192,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Tomato leaf blight/leaf blight998_.jpg'
+Tomato leaf curl/leaf curl186_.jpg,tomato,leaf_curl,tomato|leaf_curl,,,,,40254,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Tomato leaf curl/leaf curl186_.jpg'
+Tomato leaf curl/leaf curl270_.jpg,tomato,leaf_curl,tomato|leaf_curl,,,,,41220,OSError: broken data stream when reading image file
+Tomato leaf curl/leaf curl271_.jpg,tomato,leaf_curl,tomato|leaf_curl,,,,,45708,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Tomato leaf curl/leaf curl271_.jpg'
+Tomato leaf curl/leaf curl353_.jpg,tomato,leaf_curl,tomato|leaf_curl,,,,,46727,OSError: broken data stream when reading image file
+Tomato leaf curl/leaf curl354_.jpg,tomato,leaf_curl,tomato|leaf_curl,,,,,44383,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Tomato leaf curl/leaf curl354_.jpg'
+Tomato leaf curl/leaf curl439_.jpg,tomato,leaf_curl,tomato|leaf_curl,,,,,63406,OSError: broken data stream when reading image file
+Tomato leaf curl/leaf curl43_.jpg,tomato,leaf_curl,tomato|leaf_curl,,,,,49461,UnidentifiedImageError: cannot identify image file '/root/.cache/kagglehub/datasets/nirmalsankalana/crop-pest-and-disease-detection/versions/1/Tomato leaf curl/leaf curl43_.jpg'
+Tomato verticulium wilt/verticulium wilt403_.jpg,tomato,verticillium_wilt,tomato|verticillium_wilt,,,,,60104,OSError: broken data stream when reading image file

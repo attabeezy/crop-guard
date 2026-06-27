@@ -1,0 +1,12 @@
+{
+  "class_distribution.csv": "5d58915a091ecc24e85238f4deb0c715129669962e1c66f5f7a1677a5485c6bb",
+  "corrupt_images.csv": "eb2046218da044ad125d43cf418b2ca6183141f0b3b1dc656d2ef2ca8c0135dd",
+  "exact_duplicates.csv": "f2cb079e7bc6665ce69594d10c663af9044fa49b58f53fe9d5e384782e636a43",
+  "image_inventory.csv": "c5adaeb69ddd3f0888878f1608a02ac4e93e7f765ab1bc1cfc33ab22c35ea411",
+  "label_conflicts.csv": "57433daa2e0304d926103667e4096c73a8cd8ad9608f40470350f50fd23ffe8f",
+  "near_duplicate_pairs.csv": "67216fbf191a160ea10b2202d0e13cbfba0e2e26454bacdb13ec646de4c0837a",
+  "split_distribution.csv": "d7929f729fdebcb13e3e003d5fc836180bc03ed72487f72d2811dc5ea242f1c1",
+  "test.csv": "2e27003bb6e86b7665dfdffef15ea7e8ef426a0d193f33ea98e9d7dd2c2940ec",
+  "train.csv": "7fd1e18c5ce9c5b9d4a04994ac97ee119812cde941f853b3bcabbebcd89cafbe",
+  "validation.csv": "b3e7351c22f3162670056ba115b6a4bdc6ce109c1906939f290b2bfccdf8cfd8"
+}

@@ -1,0 +1,1226 @@
+left_path,right_path,label,hamming_distance
+Cashew anthracnose/anthracnose1373_.jpg,Cashew anthracnose/anthracnose1374_.jpg,cashew|anthracnose,2
+Cashew anthracnose/anthracnose1380_.jpg,Cashew anthracnose/anthracnose1381_.jpg,cashew|anthracnose,2
+Cashew anthracnose/anthracnose1398_.jpg,Cashew anthracnose/anthracnose1399_.jpg,cashew|anthracnose,3
+Cashew anthracnose/anthracnose1422_.jpg,Cashew anthracnose/anthracnose1423_.jpg,cashew|anthracnose,3
+Cashew anthracnose/anthracnose1540_.jpg,Cashew anthracnose/anthracnose1541_.jpg,cashew|anthracnose,3
+Cashew anthracnose/anthracnose1560_.jpg,Cashew anthracnose/anthracnose1561_.jpg,cashew|anthracnose,4
+Cashew anthracnose/anthracnose1576_.jpg,Cashew anthracnose/anthracnose1577_.jpg,cashew|anthracnose,4
+Cashew anthracnose/anthracnose1577_.jpg,Cashew anthracnose/anthracnose1578_.jpg,cashew|anthracnose,3
+Cashew anthracnose/anthracnose1583_.jpg,Cashew anthracnose/anthracnose1584_.jpg,cashew|anthracnose,4
+Cashew anthracnose/anthracnose1585_.jpg,Cashew anthracnose/anthracnose1586_.jpg,cashew|anthracnose,4
+Cashew anthracnose/anthracnose1606_.jpg,Cashew anthracnose/anthracnose1607_.jpg,cashew|anthracnose,3
+Cashew anthracnose/anthracnose1606_.jpg,Cashew anthracnose/anthracnose1608_.jpg,cashew|anthracnose,1
+Cashew anthracnose/anthracnose1607_.jpg,Cashew anthracnose/anthracnose1608_.jpg,cashew|anthracnose,2
+Cashew anthracnose/anthracnose1614_.jpg,Cashew anthracnose/anthracnose1615_.jpg,cashew|anthracnose,3
+Cashew anthracnose/anthracnose1618_.jpg,Cashew anthracnose/anthracnose1619_.jpg,cashew|anthracnose,4
+Cashew anthracnose/anthracnose1625_.jpg,Cashew anthracnose/anthracnose1626_.jpg,cashew|anthracnose,3
+Cashew anthracnose/anthracnose1633_.jpg,Cashew anthracnose/anthracnose1634_.jpg,cashew|anthracnose,3
+Cashew anthracnose/anthracnose165_.jpg,Cashew anthracnose/anthracnose172_.jpg,cashew|anthracnose,4
+Cashew anthracnose/anthracnose165_.jpg,Cashew anthracnose/anthracnose221_.jpg,cashew|anthracnose,3
+Cashew anthracnose/anthracnose1684_.jpg,Cashew anthracnose/anthracnose1685_.jpg,cashew|anthracnose,4
+Cashew gumosis/gumosis149_.jpg,Cashew gumosis/gumosis150_.jpg,cashew|gummosis,3
+Cashew gumosis/gumosis322_.jpg,Cashew gumosis/gumosis323_.jpg,cashew|gummosis,3
+Cashew gumosis/gumosis326_.jpg,Cashew gumosis/gumosis327_.jpg,cashew|gummosis,1
+Cashew healthy/healthy1129_.jpg,Cashew healthy/healthy1130_.jpg,cashew|healthy,3
+Cashew healthy/healthy1131_.jpg,Cashew healthy/healthy1132_.jpg,cashew|healthy,4
+Cashew healthy/healthy114_.jpg,Cashew healthy/healthy122_.jpg,cashew|healthy,3
+Cashew healthy/healthy1159_.jpg,Cashew healthy/healthy1160_.jpg,cashew|healthy,4
+Cashew healthy/healthy122_.jpg,Cashew healthy/healthy123_.jpg,cashew|healthy,4
+Cashew healthy/healthy122_.jpg,Cashew healthy/healthy126_.jpg,cashew|healthy,4
+Cashew healthy/healthy122_.jpg,Cashew healthy/healthy144_.jpg,cashew|healthy,3
+Cashew healthy/healthy122_.jpg,Cashew healthy/healthy147_.jpg,cashew|healthy,3
+Cashew healthy/healthy123_.jpg,Cashew healthy/healthy126_.jpg,cashew|healthy,4
+Cashew healthy/healthy1256_.jpg,Cashew healthy/healthy1257_.jpg,cashew|healthy,4
+Cashew healthy/healthy1325_.jpg,Cashew healthy/healthy1326_.jpg,cashew|healthy,3
+Cashew healthy/healthy1327_.jpg,Cashew healthy/healthy1328_.jpg,cashew|healthy,2
+Cashew healthy/healthy1347_.jpg,Cashew healthy/healthy1348_.jpg,cashew|healthy,2
+Cashew healthy/healthy1355_.jpg,Cashew healthy/healthy1356_.jpg,cashew|healthy,1
+Cashew healthy/healthy1361_.jpg,Cashew healthy/healthy1362_.jpg,cashew|healthy,2
+Cashew healthy/healthy228_.jpg,Cashew healthy/healthy229_.jpg,cashew|healthy,4
+Cashew healthy/healthy273_.jpg,Cashew healthy/healthy279_.jpg,cashew|healthy,3
+Cashew healthy/healthy273_.jpg,Cashew healthy/healthy280_.jpg,cashew|healthy,3
+Cashew healthy/healthy278_.jpg,Cashew healthy/healthy311_.jpg,cashew|healthy,4
+Cashew healthy/healthy280_.jpg,Cashew healthy/healthy282_.jpg,cashew|healthy,4
+Cashew healthy/healthy280_.jpg,Cashew healthy/healthy289_.jpg,cashew|healthy,4
+Cashew healthy/healthy331_.jpg,Cashew healthy/healthy332_.jpg,cashew|healthy,1
+Cashew healthy/healthy391_.jpg,Cashew healthy/healthy393_.jpg,cashew|healthy,4
+Cashew healthy/healthy396_.jpg,Cashew healthy/healthy426_.jpg,cashew|healthy,3
+Cashew healthy/healthy396_.jpg,Cashew healthy/healthy465_.jpg,cashew|healthy,4
+Cashew healthy/healthy406_.jpg,Cashew healthy/healthy544_.jpg,cashew|healthy,4
+Cashew healthy/healthy416_.jpg,Cashew healthy/healthy532_.jpg,cashew|healthy,4
+Cashew healthy/healthy430_.jpg,Cashew healthy/healthy476_.jpg,cashew|healthy,4
+Cashew healthy/healthy451_.jpg,Cashew healthy/healthy501_.jpg,cashew|healthy,1
+Cashew healthy/healthy461_.jpg,Cashew healthy/healthy465_.jpg,cashew|healthy,1
+Cashew healthy/healthy470_.jpg,Cashew healthy/healthy471_.jpg,cashew|healthy,4
+Cashew healthy/healthy484_.jpg,Cashew healthy/healthy493_.jpg,cashew|healthy,4
+Cashew healthy/healthy782_.jpg,Cashew healthy/healthy783_.jpg,cashew|healthy,4
+Cashew healthy/healthy784_.jpg,Cashew healthy/healthy786_.jpg,cashew|healthy,1
+Cashew healthy/healthy784_.jpg,Cashew healthy/healthy787_.jpg,cashew|healthy,2
+Cashew healthy/healthy785_.jpg,Cashew healthy/healthy786_.jpg,cashew|healthy,4
+Cashew healthy/healthy786_.jpg,Cashew healthy/healthy787_.jpg,cashew|healthy,1
+Cashew healthy/healthy792_.jpg,Cashew healthy/healthy793_.jpg,cashew|healthy,4
+Cashew healthy/healthy793_.jpg,Cashew healthy/healthy794_.jpg,cashew|healthy,4
+Cashew healthy/healthy796_.jpg,Cashew healthy/healthy797_.jpg,cashew|healthy,1
+Cashew healthy/healthy798_.jpg,Cashew healthy/healthy799_.jpg,cashew|healthy,3
+Cashew healthy/healthy798_.jpg,Cashew healthy/healthy800_.jpg,cashew|healthy,3
+Cashew healthy/healthy799_.jpg,Cashew healthy/healthy800_.jpg,cashew|healthy,4
+Cashew healthy/healthy811_.jpg,Cashew healthy/healthy812_.jpg,cashew|healthy,3
+Cashew healthy/healthy813_.jpg,Cashew healthy/healthy814_.jpg,cashew|healthy,2
+Cashew healthy/healthy831_.jpg,Cashew healthy/healthy832_.jpg,cashew|healthy,3
+Cashew healthy/healthy834_.jpg,Cashew healthy/healthy835_.jpg,cashew|healthy,4
+Cashew healthy/healthy838_.jpg,Cashew healthy/healthy839_.jpg,cashew|healthy,4
+Cashew leaf miner/leaf miner1072_.jpg,Cashew leaf miner/leaf miner1073_.jpg,cashew|leaf_miner,3
+Cashew leaf miner/leaf miner1103_.jpg,Cashew leaf miner/leaf miner1104_.jpg,cashew|leaf_miner,3
+Cashew leaf miner/leaf miner1113_.jpg,Cashew leaf miner/leaf miner1115_.jpg,cashew|leaf_miner,4
+Cashew leaf miner/leaf miner1127_.jpg,Cashew leaf miner/leaf miner1128_.jpg,cashew|leaf_miner,4
+Cashew leaf miner/leaf miner1135_.jpg,Cashew leaf miner/leaf miner1136_.jpg,cashew|leaf_miner,2
+Cashew leaf miner/leaf miner1144_.jpg,Cashew leaf miner/leaf miner1145_.jpg,cashew|leaf_miner,4
+Cashew leaf miner/leaf miner1154_.jpg,Cashew leaf miner/leaf miner1155_.jpg,cashew|leaf_miner,2
+Cashew leaf miner/leaf miner1185_.jpg,Cashew leaf miner/leaf miner1186_.jpg,cashew|leaf_miner,3
+Cashew leaf miner/leaf miner1208_.jpg,Cashew leaf miner/leaf miner1209_.jpg,cashew|leaf_miner,0
+Cashew leaf miner/leaf miner1212_.jpg,Cashew leaf miner/leaf miner1213_.jpg,cashew|leaf_miner,3
+Cashew leaf miner/leaf miner1231_.jpg,Cashew leaf miner/leaf miner1232_.jpg,cashew|leaf_miner,4
+Cashew leaf miner/leaf miner1332_.jpg,Cashew leaf miner/leaf miner1333_.jpg,cashew|leaf_miner,0
+Cashew leaf miner/leaf miner1342_.jpg,Cashew leaf miner/leaf miner1343_.jpg,cashew|leaf_miner,1
+Cashew leaf miner/leaf miner1350_.jpg,Cashew leaf miner/leaf miner1351_.jpg,cashew|leaf_miner,3
+Cashew leaf miner/leaf miner1357_.jpg,Cashew leaf miner/leaf miner1358_.jpg,cashew|leaf_miner,3
+Cashew leaf miner/leaf miner1364_.jpg,Cashew leaf miner/leaf miner1365_.jpg,cashew|leaf_miner,4
+Cashew leaf miner/leaf miner1364_.jpg,Cashew leaf miner/leaf miner1366_.jpg,cashew|leaf_miner,4
+Cashew leaf miner/leaf miner1365_.jpg,Cashew leaf miner/leaf miner1366_.jpg,cashew|leaf_miner,4
+Cashew leaf miner/leaf miner1365_.jpg,Cashew leaf miner/leaf miner1367_.jpg,cashew|leaf_miner,4
+Cashew leaf miner/leaf miner1368_.jpg,Cashew leaf miner/leaf miner1369_.jpg,cashew|leaf_miner,2
+Cashew red rust/red rust125_.jpg,Cashew red rust/red rust126_.jpg,cashew|red_rust,3
+Cashew red rust/red rust1279_.jpg,Cashew red rust/red rust1280_.jpg,cashew|red_rust,2
+Cashew red rust/red rust1325_.jpg,Cashew red rust/red rust1326_.jpg,cashew|red_rust,2
+Cashew red rust/red rust1339_.jpg,Cashew red rust/red rust1340_.jpg,cashew|red_rust,4
+Cashew red rust/red rust1345_.jpg,Cashew red rust/red rust1681_.jpg,cashew|red_rust,0
+Cashew red rust/red rust1354_.jpg,Cashew red rust/red rust1355_.jpg,cashew|red_rust,1
+Cashew red rust/red rust1359_.jpg,Cashew red rust/red rust1360_.jpg,cashew|red_rust,3
+Cashew red rust/red rust1377_.jpg,Cashew red rust/red rust1378_.jpg,cashew|red_rust,1
+Cashew red rust/red rust1379_.jpg,Cashew red rust/red rust1380_.jpg,cashew|red_rust,3
+Cashew red rust/red rust1385_.jpg,Cashew red rust/red rust1386_.jpg,cashew|red_rust,4
+Cashew red rust/red rust1413_.jpg,Cashew red rust/red rust1414_.jpg,cashew|red_rust,3
+Cashew red rust/red rust1480_.jpg,Cashew red rust/red rust1481_.jpg,cashew|red_rust,4
+Cashew red rust/red rust1500_.jpg,Cashew red rust/red rust1501_.jpg,cashew|red_rust,0
+Cashew red rust/red rust1572_.jpg,Cashew red rust/red rust1573_.jpg,cashew|red_rust,4
+Cashew red rust/red rust1609_.jpg,Cashew red rust/red rust1610_.jpg,cashew|red_rust,2
+Cashew red rust/red rust1609_.jpg,Cashew red rust/red rust1611_.jpg,cashew|red_rust,4
+Cashew red rust/red rust1610_.jpg,Cashew red rust/red rust1611_.jpg,cashew|red_rust,2
+Cashew red rust/red rust1671_.jpg,Cashew red rust/red rust1672_.jpg,cashew|red_rust,4
+Cashew red rust/red rust1674_.jpg,Cashew red rust/red rust1675_.jpg,cashew|red_rust,2
+Cassava bacterial blight/bacterial blight1003_.jpg,Cassava bacterial blight/bacterial blight1939_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight1032_.jpg,Cassava bacterial blight/bacterial blight1954_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight1058_.jpg,Cassava bacterial blight/bacterial blight1362_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight1066_.jpg,Cassava bacterial blight/bacterial blight1369_.jpg,cassava|bacterial_blight,3
+Cassava bacterial blight/bacterial blight1076_.jpg,Cassava bacterial blight/bacterial blight1971_.jpg,cassava|bacterial_blight,1
+Cassava bacterial blight/bacterial blight108_.jpg,Cassava bacterial blight/bacterial blight1692_.jpg,cassava|bacterial_blight,2
+Cassava bacterial blight/bacterial blight1125_.jpg,Cassava bacterial blight/bacterial blight1408_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1126_.jpg,Cassava bacterial blight/bacterial blight1409_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1187_.jpg,Cassava bacterial blight/bacterial blight1612_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1195_.jpg,Cassava bacterial blight/bacterial blight1493_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1206_.jpg,Cassava bacterial blight/bacterial blight1285_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1223_.jpg,Cassava bacterial blight/bacterial blight1286_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1226_.jpg,Cassava bacterial blight/bacterial blight1287_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1235_.jpg,Cassava bacterial blight/bacterial blight1530_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight1240_.jpg,Cassava bacterial blight/bacterial blight1532_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight1251_.jpg,Cassava bacterial blight/bacterial blight1288_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1253_.jpg,Cassava bacterial blight/bacterial blight1619_.jpg,cassava|bacterial_blight,3
+Cassava bacterial blight/bacterial blight1254_.jpg,Cassava bacterial blight/bacterial blight1558_.jpg,cassava|bacterial_blight,1
+Cassava bacterial blight/bacterial blight1278_.jpg,Cassava bacterial blight/bacterial blight923_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1279_.jpg,Cassava bacterial blight/bacterial blight930_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1280_.jpg,Cassava bacterial blight/bacterial blight933_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1281_.jpg,Cassava bacterial blight/bacterial blight936_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1282_.jpg,Cassava bacterial blight/bacterial blight938_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1283_.jpg,Cassava bacterial blight/bacterial blight945_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1289_.jpg,Cassava bacterial blight/bacterial blight87_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1290_.jpg,Cassava bacterial blight/bacterial blight88_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1291_.jpg,Cassava bacterial blight/bacterial blight89_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1292_.jpg,Cassava bacterial blight/bacterial blight145_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1293_.jpg,Cassava bacterial blight/bacterial blight150_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1299_.jpg,Cassava bacterial blight/bacterial blight320_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight129_.jpg,Cassava bacterial blight/bacterial blight130_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight1303_.jpg,Cassava bacterial blight/bacterial blight886_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1351_.jpg,Cassava bacterial blight/bacterial blight1381_.jpg,cassava|bacterial_blight,2
+Cassava bacterial blight/bacterial blight1579_.jpg,Cassava bacterial blight/bacterial blight97_.jpg,cassava|bacterial_blight,2
+Cassava bacterial blight/bacterial blight1587_.jpg,Cassava bacterial blight/bacterial blight805_.jpg,cassava|bacterial_blight,1
+Cassava bacterial blight/bacterial blight1620_.jpg,Cassava bacterial blight/bacterial blight2_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight1622_.jpg,Cassava bacterial blight/bacterial blight4_.jpg,cassava|bacterial_blight,2
+Cassava bacterial blight/bacterial blight1623_.jpg,Cassava bacterial blight/bacterial blight5_.jpg,cassava|bacterial_blight,1
+Cassava bacterial blight/bacterial blight1632_.jpg,Cassava bacterial blight/bacterial blight17_.jpg,cassava|bacterial_blight,3
+Cassava bacterial blight/bacterial blight1635_.jpg,Cassava bacterial blight/bacterial blight20_.jpg,cassava|bacterial_blight,2
+Cassava bacterial blight/bacterial blight1636_.jpg,Cassava bacterial blight/bacterial blight21_.jpg,cassava|bacterial_blight,2
+Cassava bacterial blight/bacterial blight1638_.jpg,Cassava bacterial blight/bacterial blight23_.jpg,cassava|bacterial_blight,3
+Cassava bacterial blight/bacterial blight1656_.jpg,Cassava bacterial blight/bacterial blight46_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1657_.jpg,Cassava bacterial blight/bacterial blight47_.jpg,cassava|bacterial_blight,2
+Cassava bacterial blight/bacterial blight1680_.jpg,Cassava bacterial blight/bacterial blight70_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight1684_.jpg,Cassava bacterial blight/bacterial blight84_.jpg,cassava|bacterial_blight,3
+Cassava bacterial blight/bacterial blight1685_.jpg,Cassava bacterial blight/bacterial blight86_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1703_.jpg,Cassava bacterial blight/bacterial blight192_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1737_.jpg,Cassava bacterial blight/bacterial blight652_.jpg,cassava|bacterial_blight,1
+Cassava bacterial blight/bacterial blight1746_.jpg,Cassava bacterial blight/bacterial blight725_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1747_.jpg,Cassava bacterial blight/bacterial blight731_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight1749_.jpg,Cassava bacterial blight/bacterial blight762_.jpg,cassava|bacterial_blight,2
+Cassava bacterial blight/bacterial blight174_.jpg,Cassava bacterial blight/bacterial blight2062_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight1755_.jpg,Cassava bacterial blight/bacterial blight798_.jpg,cassava|bacterial_blight,1
+Cassava bacterial blight/bacterial blight1758_.jpg,Cassava bacterial blight/bacterial blight828_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight1762_.jpg,Cassava bacterial blight/bacterial blight848_.jpg,cassava|bacterial_blight,3
+Cassava bacterial blight/bacterial blight1826_.jpg,Cassava bacterial blight/bacterial blight893_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1864_.jpg,Cassava bacterial blight/bacterial blight926_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight1872_.jpg,Cassava bacterial blight/bacterial blight934_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight1917_.jpg,Cassava bacterial blight/bacterial blight953_.jpg,cassava|bacterial_blight,2
+Cassava bacterial blight/bacterial blight1919_.jpg,Cassava bacterial blight/bacterial blight957_.jpg,cassava|bacterial_blight,2
+Cassava bacterial blight/bacterial blight1923_.jpg,Cassava bacterial blight/bacterial blight964_.jpg,cassava|bacterial_blight,2
+Cassava bacterial blight/bacterial blight1926_.jpg,Cassava bacterial blight/bacterial blight969_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight1927_.jpg,Cassava bacterial blight/bacterial blight972_.jpg,cassava|bacterial_blight,2
+Cassava bacterial blight/bacterial blight1927_.jpg,Cassava bacterial blight/bacterial blight974_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight1928_.jpg,Cassava bacterial blight/bacterial blight974_.jpg,cassava|bacterial_blight,1
+Cassava bacterial blight/bacterial blight1932_.jpg,Cassava bacterial blight/bacterial blight984_.jpg,cassava|bacterial_blight,3
+Cassava bacterial blight/bacterial blight1933_.jpg,Cassava bacterial blight/bacterial blight986_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight1934_.jpg,Cassava bacterial blight/bacterial blight987_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight212_.jpg,Cassava bacterial blight/bacterial blight253_.jpg,cassava|bacterial_blight,3
+Cassava bacterial blight/bacterial blight220_.jpg,Cassava bacterial blight/bacterial blight224_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight2224_.jpg,Cassava bacterial blight/bacterial blight407_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight2237_.jpg,Cassava bacterial blight/bacterial blight423_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight2238_.jpg,Cassava bacterial blight/bacterial blight424_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight2385_.jpg,Cassava bacterial blight/bacterial blight656_.jpg,cassava|bacterial_blight,3
+Cassava bacterial blight/bacterial blight2400_.jpg,Cassava bacterial blight/bacterial blight676_.jpg,cassava|bacterial_blight,0
+Cassava bacterial blight/bacterial blight2523_.jpg,Cassava bacterial blight/bacterial blight820_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight298_.jpg,Cassava bacterial blight/bacterial blight299_.jpg,cassava|bacterial_blight,1
+Cassava bacterial blight/bacterial blight350_.jpg,Cassava bacterial blight/bacterial blight355_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight358_.jpg,Cassava bacterial blight/bacterial blight367_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight391_.jpg,Cassava bacterial blight/bacterial blight392_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight404_.jpg,Cassava bacterial blight/bacterial blight405_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight404_.jpg,Cassava bacterial blight/bacterial blight410_.jpg,cassava|bacterial_blight,2
+Cassava bacterial blight/bacterial blight458_.jpg,Cassava bacterial blight/bacterial blight471_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight528_.jpg,Cassava bacterial blight/bacterial blight532_.jpg,cassava|bacterial_blight,2
+Cassava bacterial blight/bacterial blight540_.jpg,Cassava bacterial blight/bacterial blight544_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight623_.jpg,Cassava bacterial blight/bacterial blight624_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight715_.jpg,Cassava bacterial blight/bacterial blight717_.jpg,cassava|bacterial_blight,4
+Cassava bacterial blight/bacterial blight952_.jpg,Cassava bacterial blight/bacterial blight954_.jpg,cassava|bacterial_blight,4
+Cassava brown spot/brown spot103_.jpg,Cassava brown spot/brown spot367_.jpg,cassava|brown_spot,0
+Cassava brown spot/brown spot107_.jpg,Cassava brown spot/brown spot368_.jpg,cassava|brown_spot,0
+Cassava brown spot/brown spot111_.jpg,Cassava brown spot/brown spot349_.jpg,cassava|brown_spot,0
+Cassava brown spot/brown spot1225_.jpg,Cassava brown spot/brown spot49_.jpg,cassava|brown_spot,0
+Cassava brown spot/brown spot1228_.jpg,Cassava brown spot/brown spot51_.jpg,cassava|brown_spot,0
+Cassava brown spot/brown spot125_.jpg,Cassava brown spot/brown spot350_.jpg,cassava|brown_spot,0
+Cassava brown spot/brown spot137_.jpg,Cassava brown spot/brown spot351_.jpg,cassava|brown_spot,0
+Cassava brown spot/brown spot15_.jpg,Cassava brown spot/brown spot361_.jpg,cassava|brown_spot,0
+Cassava brown spot/brown spot23_.jpg,Cassava brown spot/brown spot362_.jpg,cassava|brown_spot,0
+Cassava brown spot/brown spot26_.jpg,Cassava brown spot/brown spot363_.jpg,cassava|brown_spot,0
+Cassava brown spot/brown spot34_.jpg,Cassava brown spot/brown spot372_.jpg,cassava|brown_spot,1
+Cassava brown spot/brown spot35_.jpg,Cassava brown spot/brown spot373_.jpg,cassava|brown_spot,1
+Cassava brown spot/brown spot365_.jpg,Cassava brown spot/brown spot47_.jpg,cassava|brown_spot,0
+Cassava brown spot/brown spot36_.jpg,Cassava brown spot/brown spot374_.jpg,cassava|brown_spot,0
+Cassava brown spot/brown spot384_.jpg,Cassava brown spot/brown spot39_.jpg,cassava|brown_spot,0
+Cassava brown spot/brown spot385_.jpg,Cassava brown spot/brown spot40_.jpg,cassava|brown_spot,0
+Cassava brown spot/brown spot386_.jpg,Cassava brown spot/brown spot41_.jpg,cassava|brown_spot,0
+Cassava brown spot/brown spot387_.jpg,Cassava brown spot/brown spot42_.jpg,cassava|brown_spot,0
+Cassava brown spot/brown spot389_.jpg,Cassava brown spot/brown spot43_.jpg,cassava|brown_spot,0
+Cassava brown spot/brown spot425_.jpg,Cassava brown spot/brown spot426_.jpg,cassava|brown_spot,1
+Cassava brown spot/brown spot825_.jpg,Cassava brown spot/brown spot962_.jpg,cassava|brown_spot,1
+Cassava brown spot/brown spot930_.jpg,Cassava brown spot/brown spot938_.jpg,cassava|brown_spot,2
+Cassava brown spot/brown spot930_.jpg,Cassava brown spot/brown spot952_.jpg,cassava|brown_spot,2
+Cassava brown spot/brown spot938_.jpg,Cassava brown spot/brown spot952_.jpg,cassava|brown_spot,2
+Cassava brown spot/brown spot995_.jpg,Cassava brown spot/brown spot996_.jpg,cassava|brown_spot,0
+Cassava green mite/green mite216_.jpg,Cassava green mite/green mite266_.jpg,cassava|green_mite,4
+Cassava green mite/green mite222_.jpg,Cassava green mite/green mite949_.jpg,cassava|green_mite,3
+Cassava green mite/green mite232_.jpg,Cassava green mite/green mite579_.jpg,cassava|green_mite,3
+Cassava green mite/green mite251_.jpg,Cassava green mite/green mite457_.jpg,cassava|green_mite,4
+Cassava green mite/green mite256_.jpg,Cassava green mite/green mite449_.jpg,cassava|green_mite,3
+Cassava green mite/green mite274_.jpg,Cassava green mite/green mite704_.jpg,cassava|green_mite,1
+Cassava green mite/green mite284_.jpg,Cassava green mite/green mite710_.jpg,cassava|green_mite,2
+Cassava green mite/green mite287_.jpg,Cassava green mite/green mite713_.jpg,cassava|green_mite,4
+Cassava green mite/green mite313_.jpg,Cassava green mite/green mite582_.jpg,cassava|green_mite,4
+Cassava green mite/green mite320_.jpg,Cassava green mite/green mite593_.jpg,cassava|green_mite,4
+Cassava green mite/green mite375_.jpg,Cassava green mite/green mite610_.jpg,cassava|green_mite,3
+Cassava green mite/green mite378_.jpg,Cassava green mite/green mite611_.jpg,cassava|green_mite,2
+Cassava green mite/green mite506_.jpg,Cassava green mite/green mite512_.jpg,cassava|green_mite,1
+Cassava green mite/green mite546_.jpg,Cassava green mite/green mite875_.jpg,cassava|green_mite,0
+Cassava green mite/green mite727_.jpg,Cassava green mite/green mite728_.jpg,cassava|green_mite,2
+Cassava green mite/green mite742_.jpg,Cassava green mite/green mite85_.jpg,cassava|green_mite,2
+Cassava green mite/green mite886_.jpg,Cassava green mite/green mite89_.jpg,cassava|green_mite,3
+Cassava healthy/healthy1055_.jpg,Cassava healthy/healthy348_.jpg,cassava|healthy,4
+Cassava healthy/healthy1112_.jpg,Cassava healthy/healthy314_.jpg,cassava|healthy,4
+Cassava healthy/healthy1149_.jpg,Cassava healthy/healthy795_.jpg,cassava|healthy,4
+Cassava healthy/healthy494_.jpg,Cassava healthy/healthy755_.jpg,cassava|healthy,4
+Cassava healthy/healthy545_.jpg,Cassava healthy/healthy560_.jpg,cassava|healthy,3
+Cassava healthy/healthy838_.jpg,Cassava healthy/healthy870_.jpg,cassava|healthy,4
+Cassava mosaic/mosaic1018_.jpg,Cassava mosaic/mosaic136_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic1023_.jpg,Cassava mosaic/mosaic144_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic1027_.jpg,Cassava mosaic/mosaic145_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic103_.jpg,Cassava mosaic/mosaic824_.jpg,cassava|mosaic,4
+Cassava mosaic/mosaic105_.jpg,Cassava mosaic/mosaic567_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic108_.jpg,Cassava mosaic/mosaic658_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic1191_.jpg,Cassava mosaic/mosaic1206_.jpg,cassava|mosaic,2
+Cassava mosaic/mosaic119_.jpg,Cassava mosaic/mosaic667_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic120_.jpg,Cassava mosaic/mosaic668_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic152_.jpg,Cassava mosaic/mosaic569_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic173_.jpg,Cassava mosaic/mosaic570_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic181_.jpg,Cassava mosaic/mosaic601_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic184_.jpg,Cassava mosaic/mosaic571_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic194_.jpg,Cassava mosaic/mosaic602_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic202_.jpg,Cassava mosaic/mosaic603_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic207_.jpg,Cassava mosaic/mosaic733_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic208_.jpg,Cassava mosaic/mosaic604_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic209_.jpg,Cassava mosaic/mosaic734_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic210_.jpg,Cassava mosaic/mosaic735_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic211_.jpg,Cassava mosaic/mosaic736_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic212_.jpg,Cassava mosaic/mosaic737_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic213_.jpg,Cassava mosaic/mosaic738_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic214_.jpg,Cassava mosaic/mosaic240_.jpg,cassava|mosaic,3
+Cassava mosaic/mosaic214_.jpg,Cassava mosaic/mosaic572_.jpg,cassava|mosaic,3
+Cassava mosaic/mosaic214_.jpg,Cassava mosaic/mosaic739_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic215_.jpg,Cassava mosaic/mosaic740_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic216_.jpg,Cassava mosaic/mosaic741_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic217_.jpg,Cassava mosaic/mosaic221_.jpg,cassava|mosaic,3
+Cassava mosaic/mosaic217_.jpg,Cassava mosaic/mosaic605_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic217_.jpg,Cassava mosaic/mosaic606_.jpg,cassava|mosaic,3
+Cassava mosaic/mosaic218_.jpg,Cassava mosaic/mosaic742_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic219_.jpg,Cassava mosaic/mosaic743_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic220_.jpg,Cassava mosaic/mosaic744_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic221_.jpg,Cassava mosaic/mosaic605_.jpg,cassava|mosaic,3
+Cassava mosaic/mosaic221_.jpg,Cassava mosaic/mosaic606_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic223_.jpg,Cassava mosaic/mosaic750_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic224_.jpg,Cassava mosaic/mosaic751_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic225_.jpg,Cassava mosaic/mosaic752_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic226_.jpg,Cassava mosaic/mosaic753_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic235_.jpg,Cassava mosaic/mosaic608_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic240_.jpg,Cassava mosaic/mosaic572_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic240_.jpg,Cassava mosaic/mosaic739_.jpg,cassava|mosaic,3
+Cassava mosaic/mosaic241_.jpg,Cassava mosaic/mosaic767_.jpg,cassava|mosaic,4
+Cassava mosaic/mosaic242_.jpg,Cassava mosaic/mosaic609_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic244_.jpg,Cassava mosaic/mosaic573_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic253_.jpg,Cassava mosaic/mosaic610_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic259_.jpg,Cassava mosaic/mosaic558_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic261_.jpg,Cassava mosaic/mosaic611_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic262_.jpg,Cassava mosaic/mosaic574_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic274_.jpg,Cassava mosaic/mosaic575_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic276_.jpg,Cassava mosaic/mosaic612_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic281_.jpg,Cassava mosaic/mosaic576_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic285_.jpg,Cassava mosaic/mosaic577_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic288_.jpg,Cassava mosaic/mosaic613_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic289_.jpg,Cassava mosaic/mosaic578_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic290_.jpg,Cassava mosaic/mosaic614_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic294_.jpg,Cassava mosaic/mosaic615_.jpg,cassava|mosaic,1
+Cassava mosaic/mosaic299_.jpg,Cassava mosaic/mosaic616_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic300_.jpg,Cassava mosaic/mosaic617_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic301_.jpg,Cassava mosaic/mosaic579_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic302_.jpg,Cassava mosaic/mosaic618_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic303_.jpg,Cassava mosaic/mosaic580_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic304_.jpg,Cassava mosaic/mosaic619_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic305_.jpg,Cassava mosaic/mosaic581_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic307_.jpg,Cassava mosaic/mosaic582_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic308_.jpg,Cassava mosaic/mosaic620_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic310_.jpg,Cassava mosaic/mosaic622_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic312_.jpg,Cassava mosaic/mosaic583_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic313_.jpg,Cassava mosaic/mosaic624_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic314_.jpg,Cassava mosaic/mosaic584_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic315_.jpg,Cassava mosaic/mosaic625_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic317_.jpg,Cassava mosaic/mosaic626_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic318_.jpg,Cassava mosaic/mosaic586_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic319_.jpg,Cassava mosaic/mosaic627_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic320_.jpg,Cassava mosaic/mosaic587_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic321_.jpg,Cassava mosaic/mosaic628_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic327_.jpg,Cassava mosaic/mosaic589_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic328_.jpg,Cassava mosaic/mosaic629_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic329_.jpg,Cassava mosaic/mosaic590_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic331_.jpg,Cassava mosaic/mosaic591_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic332_.jpg,Cassava mosaic/mosaic631_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic333_.jpg,Cassava mosaic/mosaic592_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic334_.jpg,Cassava mosaic/mosaic632_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic342_.jpg,Cassava mosaic/mosaic593_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic345_.jpg,Cassava mosaic/mosaic633_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic355_.jpg,Cassava mosaic/mosaic634_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic357_.jpg,Cassava mosaic/mosaic635_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic358_.jpg,Cassava mosaic/mosaic594_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic360_.jpg,Cassava mosaic/mosaic637_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic361_.jpg,Cassava mosaic/mosaic638_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic362_.jpg,Cassava mosaic/mosaic639_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic363_.jpg,Cassava mosaic/mosaic640_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic368_.jpg,Cassava mosaic/mosaic595_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic369_.jpg,Cassava mosaic/mosaic641_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic370_.jpg,Cassava mosaic/mosaic596_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic371_.jpg,Cassava mosaic/mosaic642_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic372_.jpg,Cassava mosaic/mosaic597_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic373_.jpg,Cassava mosaic/mosaic643_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic374_.jpg,Cassava mosaic/mosaic598_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic382_.jpg,Cassava mosaic/mosaic644_.jpg,cassava|mosaic,1
+Cassava mosaic/mosaic393_.jpg,Cassava mosaic/mosaic645_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic394_.jpg,Cassava mosaic/mosaic599_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic404_.jpg,Cassava mosaic/mosaic646_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic405_.jpg,Cassava mosaic/mosaic647_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic572_.jpg,Cassava mosaic/mosaic739_.jpg,cassava|mosaic,3
+Cassava mosaic/mosaic605_.jpg,Cassava mosaic/mosaic606_.jpg,cassava|mosaic,3
+Cassava mosaic/mosaic648_.jpg,Cassava mosaic/mosaic77_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic649_.jpg,Cassava mosaic/mosaic78_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic650_.jpg,Cassava mosaic/mosaic79_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic651_.jpg,Cassava mosaic/mosaic81_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic652_.jpg,Cassava mosaic/mosaic82_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic653_.jpg,Cassava mosaic/mosaic83_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic654_.jpg,Cassava mosaic/mosaic85_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic655_.jpg,Cassava mosaic/mosaic86_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic656_.jpg,Cassava mosaic/mosaic87_.jpg,cassava|mosaic,0
+Cassava mosaic/mosaic74_.jpg,Cassava mosaic/mosaic75_.jpg,cassava|mosaic,1
+Maize fall armyworm/fall armyworm149_.jpg,Maize fall armyworm/fall armyworm150_.jpg,maize|fall_armyworm,4
+Maize fall armyworm/fall armyworm59_.jpg,Maize fall armyworm/fall armyworm60_.jpg,maize|fall_armyworm,2
+Maize fall armyworm/leaf blight804_.jpg,Maize fall armyworm/leaf spot834_.jpg,maize|fall_armyworm,0
+Maize grasshoper/grasshoper143_.jpg,Maize grasshoper/grasshoper659_.jpg,maize|grasshopper,2
+Maize grasshoper/grasshoper580_.jpg,Maize grasshoper/grasshoper633_.jpg,maize|grasshopper,3
+Maize grasshoper/grasshoper621_.jpg,Maize grasshoper/grasshoper86_.jpg,maize|grasshopper,3
+Maize leaf beetle/leaf beetle127_.jpg,Maize leaf beetle/leaf beetle526_.jpg,maize|leaf_beetle,4
+Maize leaf beetle/leaf beetle181_.jpg,Maize leaf beetle/leaf beetle183_.jpg,maize|leaf_beetle,4
+Maize leaf beetle/leaf beetle611_.jpg,Maize leaf beetle/leaf beetle613_.jpg,maize|leaf_beetle,4
+Maize leaf beetle/leaf beetle66_.jpg,Maize leaf beetle/leaf beetle67_.jpg,maize|leaf_beetle,4
+Maize leaf beetle/leaf beetle894_.jpg,Maize leaf beetle/leaf beetle895_.jpg,maize|leaf_beetle,3
+Maize leaf beetle/leaf beetle896_.jpg,Maize leaf beetle/leaf beetle900_.jpg,maize|leaf_beetle,4
+Maize leaf beetle/leaf beetle931_.jpg,Maize leaf beetle/leaf beetle932_.jpg,maize|leaf_beetle,2
+Maize leaf blight/leaf blight14_.jpg,Maize leaf blight/leaf blight17_.jpg,maize|leaf_blight,0
+Maize leaf blight/leaf blight228_.jpg,Maize leaf blight/leaf blight229_.jpg,maize|leaf_blight,2
+Maize leaf blight/leaf blight30_.jpg,Maize leaf blight/leaf blight33_.jpg,maize|leaf_blight,0
+Maize leaf blight/leaf blight36_.jpg,Maize leaf blight/leaf blight39_.jpg,maize|leaf_blight,0
+Maize leaf blight/leaf blight424_.jpg,Maize leaf blight/leaf blight426_.jpg,maize|leaf_blight,3
+Maize leaf blight/leaf blight651_.jpg,Maize leaf blight/leaf blight652_.jpg,maize|leaf_blight,2
+Maize leaf spot/leaf spot14_.jpg,Maize leaf spot/leaf spot15_.jpg,maize|leaf_spot,0
+Maize leaf spot/leaf spot165_.jpg,Maize leaf spot/leaf spot166_.jpg,maize|leaf_spot,0
+Maize leaf spot/leaf spot16_.jpg,Maize leaf spot/leaf spot17_.jpg,maize|leaf_spot,0
+Maize leaf spot/leaf spot18_.jpg,Maize leaf spot/leaf spot19_.jpg,maize|leaf_spot,0
+Maize leaf spot/leaf spot22_.jpg,Maize leaf spot/leaf spot23_.jpg,maize|leaf_spot,0
+Maize leaf spot/leaf spot249_.jpg,Maize leaf spot/leaf spot250_.jpg,maize|leaf_spot,4
+Maize leaf spot/leaf spot24_.jpg,Maize leaf spot/leaf spot25_.jpg,maize|leaf_spot,0
+Maize leaf spot/leaf spot262_.jpg,Maize leaf spot/leaf spot263_.jpg,maize|leaf_spot,4
+Maize leaf spot/leaf spot26_.jpg,Maize leaf spot/leaf spot27_.jpg,maize|leaf_spot,0
+Maize leaf spot/leaf spot28_.jpg,Maize leaf spot/leaf spot29_.jpg,maize|leaf_spot,0
+Maize leaf spot/leaf spot2_.jpg,Maize leaf spot/leaf spot3_.jpg,maize|leaf_spot,0
+Maize leaf spot/leaf spot30_.jpg,Maize leaf spot/leaf spot31_.jpg,maize|leaf_spot,0
+Maize leaf spot/leaf spot320_.jpg,Maize leaf spot/leaf spot321_.jpg,maize|leaf_spot,4
+Maize leaf spot/leaf spot324_.jpg,Maize leaf spot/leaf spot325_.jpg,maize|leaf_spot,4
+Maize leaf spot/leaf spot32_.jpg,Maize leaf spot/leaf spot33_.jpg,maize|leaf_spot,0
+Maize leaf spot/leaf spot34_.jpg,Maize leaf spot/leaf spot35_.jpg,maize|leaf_spot,0
+Maize leaf spot/leaf spot36_.jpg,Maize leaf spot/leaf spot37_.jpg,maize|leaf_spot,0
+Maize leaf spot/leaf spot377_.jpg,Maize leaf spot/leaf spot378_.jpg,maize|leaf_spot,0
+Maize leaf spot/leaf spot38_.jpg,Maize leaf spot/leaf spot39_.jpg,maize|leaf_spot,0
+Maize leaf spot/leaf spot41_.jpg,Maize leaf spot/leaf spot42_.jpg,maize|leaf_spot,0
+Maize leaf spot/leaf spot43_.jpg,Maize leaf spot/leaf spot44_.jpg,maize|leaf_spot,0
+Maize leaf spot/leaf spot45_.jpg,Maize leaf spot/leaf spot46_.jpg,maize|leaf_spot,0
+Maize leaf spot/leaf spot49_.jpg,Maize leaf spot/leaf spot50_.jpg,maize|leaf_spot,0
+Maize leaf spot/leaf spot51_.jpg,Maize leaf spot/leaf spot52_.jpg,maize|leaf_spot,0
+Maize leaf spot/leaf spot525_.jpg,Maize leaf spot/leaf spot526_.jpg,maize|leaf_spot,0
+Maize leaf spot/leaf spot53_.jpg,Maize leaf spot/leaf spot54_.jpg,maize|leaf_spot,0
+Maize leaf spot/leaf spot576_.jpg,Maize leaf spot/leaf spot577_.jpg,maize|leaf_spot,3
+Maize leaf spot/leaf spot82_.jpg,Maize leaf spot/leaf spot83_.jpg,maize|leaf_spot,4
+Maize leaf spot/leaf spot969_.jpg,Maize leaf spot/leaf spot970_.jpg,maize|leaf_spot,0
+Maize streak virus/streak virus13_.jpg,Maize streak virus/streak virus9_.jpg,maize|streak_virus,4
+Maize streak virus/streak virus423_.jpg,Maize streak virus/streak virus842_.jpg,maize|streak_virus,4
+Maize streak virus/streak virus70_.jpg,Maize streak virus/streak virus73_.jpg,maize|streak_virus,3
+Tomato healthy/healthy150_.jpg,Tomato healthy/healthy152_.jpg,tomato|healthy,3
+Tomato healthy/healthy162_.jpg,Tomato healthy/healthy163_.jpg,tomato|healthy,2
+Tomato healthy/healthy162_.jpg,Tomato healthy/healthy164_.jpg,tomato|healthy,4
+Tomato healthy/healthy162_.jpg,Tomato healthy/healthy165_.jpg,tomato|healthy,3
+Tomato healthy/healthy163_.jpg,Tomato healthy/healthy164_.jpg,tomato|healthy,4
+Tomato healthy/healthy164_.jpg,Tomato healthy/healthy165_.jpg,tomato|healthy,3
+Tomato healthy/healthy166_.jpg,Tomato healthy/healthy168_.jpg,tomato|healthy,2
+Tomato healthy/healthy199_.jpg,Tomato healthy/healthy200_.jpg,tomato|healthy,3
+Tomato healthy/healthy203_.jpg,Tomato healthy/healthy204_.jpg,tomato|healthy,1
+Tomato healthy/healthy205_.jpg,Tomato healthy/healthy206_.jpg,tomato|healthy,1
+Tomato healthy/healthy318_.jpg,Tomato healthy/healthy320_.jpg,tomato|healthy,1
+Tomato healthy/healthy420_.jpg,Tomato healthy/healthy447_.jpg,tomato|healthy,4
+Tomato healthy/healthy4_.jpg,Tomato healthy/healthy5_.jpg,tomato|healthy,0
+Tomato healthy/healthy6_.jpg,Tomato healthy/healthy7_.jpg,tomato|healthy,0
+Tomato healthy/healthy78_.jpg,Tomato healthy/healthy80_.jpg,tomato|healthy,3
+Tomato healthy/healthy8_.jpg,Tomato healthy/healthy9_.jpg,tomato|healthy,0
+Tomato leaf blight/leaf blight1178_.jpg,Tomato leaf blight/leaf blight1179_.jpg,tomato|leaf_blight,0
+Tomato leaf blight/leaf blight1222_.jpg,Tomato leaf blight/leaf blight1271_.jpg,tomato|leaf_blight,2
+Tomato leaf blight/leaf blight1223_.jpg,Tomato leaf blight/leaf blight1224_.jpg,tomato|leaf_blight,4
+Tomato leaf blight/leaf blight1223_.jpg,Tomato leaf blight/leaf blight1225_.jpg,tomato|leaf_blight,3
+Tomato leaf blight/leaf blight1224_.jpg,Tomato leaf blight/leaf blight1225_.jpg,tomato|leaf_blight,1
+Tomato leaf blight/leaf blight1247_.jpg,Tomato leaf blight/leaf blight1248_.jpg,tomato|leaf_blight,3
+Tomato leaf blight/leaf blight1250_.jpg,Tomato leaf blight/leaf blight1252_.jpg,tomato|leaf_blight,4
+Tomato leaf blight/leaf blight1250_.jpg,Tomato leaf blight/leaf blight1253_.jpg,tomato|leaf_blight,4
+Tomato leaf blight/leaf blight1251_.jpg,Tomato leaf blight/leaf blight1252_.jpg,tomato|leaf_blight,3
+Tomato leaf blight/leaf blight1252_.jpg,Tomato leaf blight/leaf blight1253_.jpg,tomato|leaf_blight,2
+Tomato leaf blight/leaf blight1254_.jpg,Tomato leaf blight/leaf blight1255_.jpg,tomato|leaf_blight,1
+Tomato leaf blight/leaf blight1254_.jpg,Tomato leaf blight/leaf blight1257_.jpg,tomato|leaf_blight,4
+Tomato leaf blight/leaf blight1254_.jpg,Tomato leaf blight/leaf blight1258_.jpg,tomato|leaf_blight,3
+Tomato leaf blight/leaf blight1255_.jpg,Tomato leaf blight/leaf blight1258_.jpg,tomato|leaf_blight,4
+Tomato leaf blight/leaf blight1256_.jpg,Tomato leaf blight/leaf blight1257_.jpg,tomato|leaf_blight,1
+Tomato leaf blight/leaf blight1256_.jpg,Tomato leaf blight/leaf blight1258_.jpg,tomato|leaf_blight,2
+Tomato leaf blight/leaf blight1257_.jpg,Tomato leaf blight/leaf blight1258_.jpg,tomato|leaf_blight,1
+Tomato leaf blight/leaf blight1259_.jpg,Tomato leaf blight/leaf blight1260_.jpg,tomato|leaf_blight,1
+Tomato leaf blight/leaf blight1265_.jpg,Tomato leaf blight/leaf blight1305_.jpg,tomato|leaf_blight,4
+Tomato leaf blight/leaf blight1267_.jpg,Tomato leaf blight/leaf blight1306_.jpg,tomato|leaf_blight,0
+Tomato leaf blight/leaf blight1276_.jpg,Tomato leaf blight/leaf blight1277_.jpg,tomato|leaf_blight,3
+Tomato leaf blight/leaf blight1291_.jpg,Tomato leaf blight/leaf blight1292_.jpg,tomato|leaf_blight,4
+Tomato leaf blight/leaf blight1297_.jpg,Tomato leaf blight/leaf blight1298_.jpg,tomato|leaf_blight,1
+Tomato leaf blight/leaf blight1299_.jpg,Tomato leaf blight/leaf blight1300_.jpg,tomato|leaf_blight,2
+Tomato leaf blight/leaf blight1299_.jpg,Tomato leaf blight/leaf blight1301_.jpg,tomato|leaf_blight,2
+Tomato leaf blight/leaf blight1300_.jpg,Tomato leaf blight/leaf blight1301_.jpg,tomato|leaf_blight,0
+Tomato leaf blight/leaf blight219_.jpg,Tomato leaf blight/leaf blight220_.jpg,tomato|leaf_blight,4
+Tomato leaf blight/leaf blight22_.jpg,Tomato leaf blight/leaf blight23_.jpg,tomato|leaf_blight,0
+Tomato leaf blight/leaf blight24_.jpg,Tomato leaf blight/leaf blight25_.jpg,tomato|leaf_blight,0
+Tomato leaf blight/leaf blight33_.jpg,Tomato leaf blight/leaf blight34_.jpg,tomato|leaf_blight,1
+Tomato leaf blight/leaf blight37_.jpg,Tomato leaf blight/leaf blight38_.jpg,tomato|leaf_blight,3
+Tomato leaf blight/leaf blight45_.jpg,Tomato leaf blight/leaf blight46_.jpg,tomato|leaf_blight,3
+Tomato leaf curl/leaf curl297_.jpg,Tomato leaf curl/leaf curl298_.jpg,tomato|leaf_curl,4
+Tomato leaf curl/leaf curl297_.jpg,Tomato leaf curl/leaf curl300_.jpg,tomato|leaf_curl,4
+Tomato leaf curl/leaf curl298_.jpg,Tomato leaf curl/leaf curl300_.jpg,tomato|leaf_curl,4
+Tomato leaf curl/leaf curl302_.jpg,Tomato leaf curl/leaf curl303_.jpg,tomato|leaf_curl,4
+Tomato leaf curl/leaf curl302_.jpg,Tomato leaf curl/leaf curl304_.jpg,tomato|leaf_curl,2
+Tomato leaf curl/leaf curl303_.jpg,Tomato leaf curl/leaf curl304_.jpg,tomato|leaf_curl,2
+Tomato leaf curl/leaf curl303_.jpg,Tomato leaf curl/leaf curl305_.jpg,tomato|leaf_curl,1
+Tomato leaf curl/leaf curl304_.jpg,Tomato leaf curl/leaf curl305_.jpg,tomato|leaf_curl,3
+Tomato leaf curl/leaf curl306_.jpg,Tomato leaf curl/leaf curl307_.jpg,tomato|leaf_curl,2
+Tomato leaf curl/leaf curl306_.jpg,Tomato leaf curl/leaf curl308_.jpg,tomato|leaf_curl,4
+Tomato leaf curl/leaf curl306_.jpg,Tomato leaf curl/leaf curl309_.jpg,tomato|leaf_curl,3
+Tomato leaf curl/leaf curl307_.jpg,Tomato leaf curl/leaf curl309_.jpg,tomato|leaf_curl,3
+Tomato leaf curl/leaf curl308_.jpg,Tomato leaf curl/leaf curl309_.jpg,tomato|leaf_curl,3
+Tomato leaf curl/leaf curl310_.jpg,Tomato leaf curl/leaf curl311_.jpg,tomato|leaf_curl,2
+Tomato leaf curl/leaf curl310_.jpg,Tomato leaf curl/leaf curl312_.jpg,tomato|leaf_curl,1
+Tomato leaf curl/leaf curl311_.jpg,Tomato leaf curl/leaf curl312_.jpg,tomato|leaf_curl,3
+Tomato leaf curl/leaf curl313_.jpg,Tomato leaf curl/leaf curl314_.jpg,tomato|leaf_curl,1
+Tomato leaf curl/leaf curl313_.jpg,Tomato leaf curl/leaf curl498_.jpg,tomato|leaf_curl,1
+Tomato leaf curl/leaf curl314_.jpg,Tomato leaf curl/leaf curl498_.jpg,tomato|leaf_curl,0
+Tomato leaf curl/leaf curl330_.jpg,Tomato leaf curl/leaf curl479_.jpg,tomato|leaf_curl,3
+Tomato leaf curl/leaf curl348_.jpg,Tomato leaf curl/leaf curl349_.jpg,tomato|leaf_curl,0
+Tomato leaf curl/leaf curl348_.jpg,Tomato leaf curl/leaf curl350_.jpg,tomato|leaf_curl,3
+Tomato leaf curl/leaf curl348_.jpg,Tomato leaf curl/leaf curl503_.jpg,tomato|leaf_curl,0
+Tomato leaf curl/leaf curl348_.jpg,Tomato leaf curl/leaf curl504_.jpg,tomato|leaf_curl,2
+Tomato leaf curl/leaf curl349_.jpg,Tomato leaf curl/leaf curl350_.jpg,tomato|leaf_curl,3
+Tomato leaf curl/leaf curl349_.jpg,Tomato leaf curl/leaf curl503_.jpg,tomato|leaf_curl,0
+Tomato leaf curl/leaf curl349_.jpg,Tomato leaf curl/leaf curl504_.jpg,tomato|leaf_curl,2
+Tomato leaf curl/leaf curl350_.jpg,Tomato leaf curl/leaf curl434_.jpg,tomato|leaf_curl,4
+Tomato leaf curl/leaf curl350_.jpg,Tomato leaf curl/leaf curl503_.jpg,tomato|leaf_curl,3
+Tomato leaf curl/leaf curl350_.jpg,Tomato leaf curl/leaf curl505_.jpg,tomato|leaf_curl,2
+Tomato leaf curl/leaf curl407_.jpg,Tomato leaf curl/leaf curl466_.jpg,tomato|leaf_curl,1
+Tomato leaf curl/leaf curl407_.jpg,Tomato leaf curl/leaf curl467_.jpg,tomato|leaf_curl,2
+Tomato leaf curl/leaf curl407_.jpg,Tomato leaf curl/leaf curl468_.jpg,tomato|leaf_curl,1
+Tomato leaf curl/leaf curl409_.jpg,Tomato leaf curl/leaf curl410_.jpg,tomato|leaf_curl,4
+Tomato leaf curl/leaf curl409_.jpg,Tomato leaf curl/leaf curl411_.jpg,tomato|leaf_curl,3
+Tomato leaf curl/leaf curl410_.jpg,Tomato leaf curl/leaf curl411_.jpg,tomato|leaf_curl,3
+Tomato leaf curl/leaf curl410_.jpg,Tomato leaf curl/leaf curl412_.jpg,tomato|leaf_curl,2
+Tomato leaf curl/leaf curl414_.jpg,Tomato leaf curl/leaf curl415_.jpg,tomato|leaf_curl,2
+Tomato leaf curl/leaf curl416_.jpg,Tomato leaf curl/leaf curl473_.jpg,tomato|leaf_curl,2
+Tomato leaf curl/leaf curl416_.jpg,Tomato leaf curl/leaf curl474_.jpg,tomato|leaf_curl,2
+Tomato leaf curl/leaf curl416_.jpg,Tomato leaf curl/leaf curl475_.jpg,tomato|leaf_curl,3
+Tomato leaf curl/leaf curl418_.jpg,Tomato leaf curl/leaf curl419_.jpg,tomato|leaf_curl,1
+Tomato leaf curl/leaf curl418_.jpg,Tomato leaf curl/leaf curl420_.jpg,tomato|leaf_curl,3
+Tomato leaf curl/leaf curl418_.jpg,Tomato leaf curl/leaf curl421_.jpg,tomato|leaf_curl,4
+Tomato leaf curl/leaf curl419_.jpg,Tomato leaf curl/leaf curl420_.jpg,tomato|leaf_curl,2
+Tomato leaf curl/leaf curl419_.jpg,Tomato leaf curl/leaf curl421_.jpg,tomato|leaf_curl,3
+Tomato leaf curl/leaf curl420_.jpg,Tomato leaf curl/leaf curl421_.jpg,tomato|leaf_curl,1
+Tomato leaf curl/leaf curl427_.jpg,Tomato leaf curl/leaf curl428_.jpg,tomato|leaf_curl,4
+Tomato leaf curl/leaf curl445_.jpg,Tomato leaf curl/leaf curl446_.jpg,tomato|leaf_curl,4
+Tomato leaf curl/leaf curl466_.jpg,Tomato leaf curl/leaf curl467_.jpg,tomato|leaf_curl,1
+Tomato leaf curl/leaf curl466_.jpg,Tomato leaf curl/leaf curl468_.jpg,tomato|leaf_curl,2
+Tomato leaf curl/leaf curl467_.jpg,Tomato leaf curl/leaf curl468_.jpg,tomato|leaf_curl,3
+Tomato leaf curl/leaf curl470_.jpg,Tomato leaf curl/leaf curl471_.jpg,tomato|leaf_curl,2
+Tomato leaf curl/leaf curl470_.jpg,Tomato leaf curl/leaf curl472_.jpg,tomato|leaf_curl,3
+Tomato leaf curl/leaf curl471_.jpg,Tomato leaf curl/leaf curl472_.jpg,tomato|leaf_curl,1
+Tomato leaf curl/leaf curl473_.jpg,Tomato leaf curl/leaf curl474_.jpg,tomato|leaf_curl,2
+Tomato leaf curl/leaf curl473_.jpg,Tomato leaf curl/leaf curl475_.jpg,tomato|leaf_curl,1
+Tomato leaf curl/leaf curl474_.jpg,Tomato leaf curl/leaf curl475_.jpg,tomato|leaf_curl,3
+Tomato leaf curl/leaf curl481_.jpg,Tomato leaf curl/leaf curl482_.jpg,tomato|leaf_curl,1
+Tomato leaf curl/leaf curl487_.jpg,Tomato leaf curl/leaf curl488_.jpg,tomato|leaf_curl,1
+Tomato leaf curl/leaf curl492_.jpg,Tomato leaf curl/leaf curl493_.jpg,tomato|leaf_curl,2
+Tomato leaf curl/leaf curl494_.jpg,Tomato leaf curl/leaf curl495_.jpg,tomato|leaf_curl,2
+Tomato leaf curl/leaf curl503_.jpg,Tomato leaf curl/leaf curl504_.jpg,tomato|leaf_curl,2
+Tomato leaf curl/leaf curl514_.jpg,Tomato leaf curl/leaf curl515_.jpg,tomato|leaf_curl,2
+Tomato leaf curl/leaf curl514_.jpg,Tomato leaf curl/leaf curl516_.jpg,tomato|leaf_curl,3
+Tomato leaf curl/leaf curl515_.jpg,Tomato leaf curl/leaf curl516_.jpg,tomato|leaf_curl,1
+Tomato septoria leaf spot/septoria leaf spot11_.jpg,Tomato septoria leaf spot/septoria leaf spot12_.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot125_.jpg,Tomato septoria leaf spot/septoria leaf spot126_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot1296_.jpg,Tomato septoria leaf spot/septoria leaf spot1297_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot1301_.jpg,Tomato septoria leaf spot/septoria leaf spot1302_.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot1311_.jpg,Tomato septoria leaf spot/septoria leaf spot1312_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot1311_.jpg,Tomato septoria leaf spot/septoria leaf spot1313_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot1362_.jpg,Tomato septoria leaf spot/septoria leaf spot1363_.jpg,tomato|septoria_leaf_spot,1
+Tomato septoria leaf spot/septoria leaf spot1372_.jpg,Tomato septoria leaf spot/septoria leaf spot1373_.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot1374_.jpg,Tomato septoria leaf spot/septoria leaf spot1375_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot1526_.jpg,Tomato septoria leaf spot/septoria leaf spot1527_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot1590_.jpg,Tomato septoria leaf spot/septoria leaf spot1591_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot1684_.jpg,Tomato septoria leaf spot/septoria leaf spot1685_.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot1702_.jpg,Tomato septoria leaf spot/septoria leaf spot1704_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot1725_.jpg,Tomato septoria leaf spot/septoria leaf spot1726_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot173_.jpg,Tomato septoria leaf spot/septoria leaf spot175_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot1810_.jpg,Tomato septoria leaf spot/septoria leaf spot1811_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot1838_.jpg,Tomato septoria leaf spot/septoria leaf spot1839_.jpg,tomato|septoria_leaf_spot,1
+Tomato septoria leaf spot/septoria leaf spot1910_-KO9m8s.jpg,Tomato septoria leaf spot/septoria leaf spot1910_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1911_-JDCkJQ.jpg,Tomato septoria leaf spot/septoria leaf spot1911_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1912_-z5Dva4.jpg,Tomato septoria leaf spot/septoria leaf spot1912_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1913_-E1fXR8.jpg,Tomato septoria leaf spot/septoria leaf spot1913_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1914_-nvtDiE.jpg,Tomato septoria leaf spot/septoria leaf spot1914_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1915_-bgWsba.jpg,Tomato septoria leaf spot/septoria leaf spot1915_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1916_-m87HtT.jpg,Tomato septoria leaf spot/septoria leaf spot1916_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1917_-WzCd8x.jpg,Tomato septoria leaf spot/septoria leaf spot1917_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1918_-HIirE4.jpg,Tomato septoria leaf spot/septoria leaf spot1918_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1919_-39dqV5.jpg,Tomato septoria leaf spot/septoria leaf spot1919_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1920_-WoCe8e.jpg,Tomato septoria leaf spot/septoria leaf spot1920_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1921_-yDpCYb.jpg,Tomato septoria leaf spot/septoria leaf spot1921_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1922_-nzzl36.jpg,Tomato septoria leaf spot/septoria leaf spot1922_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1923_-eo01Nx.jpg,Tomato septoria leaf spot/septoria leaf spot1923_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1924_-UpnqJ6.jpg,Tomato septoria leaf spot/septoria leaf spot1924_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1925_-2AXupR.jpg,Tomato septoria leaf spot/septoria leaf spot1925_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1926_-gU6Kig.jpg,Tomato septoria leaf spot/septoria leaf spot1926_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1927_-ekhJuo.jpg,Tomato septoria leaf spot/septoria leaf spot1927_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1928_-27CIs6.jpg,Tomato septoria leaf spot/septoria leaf spot1928_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1929_-EhC8A9.jpg,Tomato septoria leaf spot/septoria leaf spot1929_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1930_-Zl8BWv.jpg,Tomato septoria leaf spot/septoria leaf spot1930_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1931_-2hVeQn.jpg,Tomato septoria leaf spot/septoria leaf spot1931_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1932_-fjt46n.jpg,Tomato septoria leaf spot/septoria leaf spot1932_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1933_-XW1IEc.jpg,Tomato septoria leaf spot/septoria leaf spot1933_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1934_-7umPSw.jpg,Tomato septoria leaf spot/septoria leaf spot1934_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1935_-hwNNVz.jpg,Tomato septoria leaf spot/septoria leaf spot1935_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1936_-BUrZiA.jpg,Tomato septoria leaf spot/septoria leaf spot1936_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1937_-zdvVzn.jpg,Tomato septoria leaf spot/septoria leaf spot1937_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1938_-GZevP9.jpg,Tomato septoria leaf spot/septoria leaf spot1938_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1939_-IO23Os.jpg,Tomato septoria leaf spot/septoria leaf spot1939_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1940_-AvMZ7m.jpg,Tomato septoria leaf spot/septoria leaf spot1940_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1941_-FedBqR.jpg,Tomato septoria leaf spot/septoria leaf spot1941_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1942_-1pIb3O.jpg,Tomato septoria leaf spot/septoria leaf spot1942_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1943_-6zwFHS.jpg,Tomato septoria leaf spot/septoria leaf spot1943_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1944_-4hHgNx.jpg,Tomato septoria leaf spot/septoria leaf spot1944_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1945_-CowZSi.jpg,Tomato septoria leaf spot/septoria leaf spot1945_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1946_-9mv4h4.jpg,Tomato septoria leaf spot/septoria leaf spot1946_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1947_-bVZIXB.jpg,Tomato septoria leaf spot/septoria leaf spot1947_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1948_-pUEqRz.jpg,Tomato septoria leaf spot/septoria leaf spot1948_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1949_-GHDV4Q.jpg,Tomato septoria leaf spot/septoria leaf spot1949_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1950_-oPhuC8.jpg,Tomato septoria leaf spot/septoria leaf spot1950_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1951_-GfcSYk.jpg,Tomato septoria leaf spot/septoria leaf spot1951_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1952_-EnYlyr.jpg,Tomato septoria leaf spot/septoria leaf spot1952_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1953_-MotkQF.jpg,Tomato septoria leaf spot/septoria leaf spot1953_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1954_-JbRUip.jpg,Tomato septoria leaf spot/septoria leaf spot1954_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1955_-RW9fup.jpg,Tomato septoria leaf spot/septoria leaf spot1955_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1956_-7yQiRT.jpg,Tomato septoria leaf spot/septoria leaf spot1956_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1957_-CQJdND.jpg,Tomato septoria leaf spot/septoria leaf spot1957_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1958_-DcfY7Y.jpg,Tomato septoria leaf spot/septoria leaf spot1958_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1959_-vxLdHp.jpg,Tomato septoria leaf spot/septoria leaf spot1959_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1960_-inWDAc.jpg,Tomato septoria leaf spot/septoria leaf spot1960_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1961_-iL9Z8i.jpg,Tomato septoria leaf spot/septoria leaf spot1961_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1962_-Bu6sDh.jpg,Tomato septoria leaf spot/septoria leaf spot1962_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1963_-dVY7bP.jpg,Tomato septoria leaf spot/septoria leaf spot1963_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1964_-1FPXD0.jpg,Tomato septoria leaf spot/septoria leaf spot1964_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1965_-XasEXN.jpg,Tomato septoria leaf spot/septoria leaf spot1965_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1966_-KnWp3f.jpg,Tomato septoria leaf spot/septoria leaf spot1966_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1967_-kD398H.jpg,Tomato septoria leaf spot/septoria leaf spot1967_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1968_-HY7dDw.jpg,Tomato septoria leaf spot/septoria leaf spot1968_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1969_-lz9zrO.jpg,Tomato septoria leaf spot/septoria leaf spot1969_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1970_-gdCBrf.jpg,Tomato septoria leaf spot/septoria leaf spot1970_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1971_-wMjqUx.jpg,Tomato septoria leaf spot/septoria leaf spot1971_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1972_-pWCVzr.jpg,Tomato septoria leaf spot/septoria leaf spot1972_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1973_-EUVvir.jpg,Tomato septoria leaf spot/septoria leaf spot1973_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1974_-kwud9i.jpg,Tomato septoria leaf spot/septoria leaf spot1974_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1975_-6VGyWB.jpg,Tomato septoria leaf spot/septoria leaf spot1975_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1976_-D9AF9g.jpg,Tomato septoria leaf spot/septoria leaf spot1976_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1977_-3ohsRU.jpg,Tomato septoria leaf spot/septoria leaf spot1977_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1978_-mtpH5i.jpg,Tomato septoria leaf spot/septoria leaf spot1978_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1979_-l5PYDo.jpg,Tomato septoria leaf spot/septoria leaf spot1979_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1980_-vA23FC.jpg,Tomato septoria leaf spot/septoria leaf spot1980_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1981_-VnTfRe.jpg,Tomato septoria leaf spot/septoria leaf spot1981_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1982_-ioqXoD.jpg,Tomato septoria leaf spot/septoria leaf spot1982_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1983_-EDtNJo.jpg,Tomato septoria leaf spot/septoria leaf spot1983_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1984_-bvg3va.jpg,Tomato septoria leaf spot/septoria leaf spot1984_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1984_-bvg3va.jpg,Tomato septoria leaf spot/septoria leaf spot1985_-gGFJoX.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot1984_-bvg3va.jpg,Tomato septoria leaf spot/septoria leaf spot1985_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot1984_.jpg,Tomato septoria leaf spot/septoria leaf spot1985_-gGFJoX.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot1984_.jpg,Tomato septoria leaf spot/septoria leaf spot1985_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot1985_-gGFJoX.jpg,Tomato septoria leaf spot/septoria leaf spot1985_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1986_-0Y4tsI.jpg,Tomato septoria leaf spot/septoria leaf spot1986_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1987_-4NpNDd.jpg,Tomato septoria leaf spot/septoria leaf spot1987_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1988_-eVQo0F.jpg,Tomato septoria leaf spot/septoria leaf spot1988_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1989_-WVc97j.jpg,Tomato septoria leaf spot/septoria leaf spot1989_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1990_-EBrKWZ.jpg,Tomato septoria leaf spot/septoria leaf spot1990_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1991_-qbPvS7.jpg,Tomato septoria leaf spot/septoria leaf spot1991_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1992_-nq1ldH.jpg,Tomato septoria leaf spot/septoria leaf spot1992_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1993_-yfQz6A.jpg,Tomato septoria leaf spot/septoria leaf spot1993_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1994_-OdkFDk.jpg,Tomato septoria leaf spot/septoria leaf spot1994_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1995_-PaIJU9.jpg,Tomato septoria leaf spot/septoria leaf spot1995_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1996_-gs4WwO.jpg,Tomato septoria leaf spot/septoria leaf spot1996_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1997_-etyOEd.jpg,Tomato septoria leaf spot/septoria leaf spot1997_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1998_-N4795s.jpg,Tomato septoria leaf spot/septoria leaf spot1998_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot1999_-j5AXE1.jpg,Tomato septoria leaf spot/septoria leaf spot1999_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2000_-BQ1tY7.jpg,Tomato septoria leaf spot/septoria leaf spot2000_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2001_-LOHHg4.jpg,Tomato septoria leaf spot/septoria leaf spot2001_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2002_-VACCgX.jpg,Tomato septoria leaf spot/septoria leaf spot2002_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2003_-qEoE0n.jpg,Tomato septoria leaf spot/septoria leaf spot2003_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2004_-fHJiO5.jpg,Tomato septoria leaf spot/septoria leaf spot2004_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2005_-PV0Zho.jpg,Tomato septoria leaf spot/septoria leaf spot2005_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2006_-rzRb4C.jpg,Tomato septoria leaf spot/septoria leaf spot2006_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2007_-TqJQmM.jpg,Tomato septoria leaf spot/septoria leaf spot2007_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2008_-uAhfiV.jpg,Tomato septoria leaf spot/septoria leaf spot2008_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2009_-tyYo7B.jpg,Tomato septoria leaf spot/septoria leaf spot2009_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2010_-OPfmnC.jpg,Tomato septoria leaf spot/septoria leaf spot2010_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2011_-v46wPY.jpg,Tomato septoria leaf spot/septoria leaf spot2011_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2011_-v46wPY.jpg,Tomato septoria leaf spot/septoria leaf spot2168_-eGFRbj.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2011_-v46wPY.jpg,Tomato septoria leaf spot/septoria leaf spot2168_.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2011_.jpg,Tomato septoria leaf spot/septoria leaf spot2168_-eGFRbj.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2011_.jpg,Tomato septoria leaf spot/septoria leaf spot2168_.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2012_-K4LN33.jpg,Tomato septoria leaf spot/septoria leaf spot2012_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2013_-hW9YHF.jpg,Tomato septoria leaf spot/septoria leaf spot2013_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2014_-kuefAv.jpg,Tomato septoria leaf spot/septoria leaf spot2014_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2015_-qwZDdu.jpg,Tomato septoria leaf spot/septoria leaf spot2015_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2016_-Mrhuf0.jpg,Tomato septoria leaf spot/septoria leaf spot2016_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2017_-rR7QHw.jpg,Tomato septoria leaf spot/septoria leaf spot2017_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2018_-4urykc.jpg,Tomato septoria leaf spot/septoria leaf spot2018_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2019_-1l1GYd.jpg,Tomato septoria leaf spot/septoria leaf spot2019_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2020_-PfH2Co.jpg,Tomato septoria leaf spot/septoria leaf spot2020_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2021_-UavM1M.jpg,Tomato septoria leaf spot/septoria leaf spot2021_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2022_-GS0HMZ.jpg,Tomato septoria leaf spot/septoria leaf spot2022_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2023_-lN3Nbv.jpg,Tomato septoria leaf spot/septoria leaf spot2023_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2024_-uMXxly.jpg,Tomato septoria leaf spot/septoria leaf spot2024_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2025_-DZ4MkC.jpg,Tomato septoria leaf spot/septoria leaf spot2025_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2026_-aFPU7y.jpg,Tomato septoria leaf spot/septoria leaf spot2026_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2027_-7EufwX.jpg,Tomato septoria leaf spot/septoria leaf spot2027_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2028_-cxpB5O.jpg,Tomato septoria leaf spot/septoria leaf spot2028_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2029_-IfrcxM.jpg,Tomato septoria leaf spot/septoria leaf spot2029_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2030_-lsNTJo.jpg,Tomato septoria leaf spot/septoria leaf spot2030_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2031_-GKt3Js.jpg,Tomato septoria leaf spot/septoria leaf spot2031_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2032_-HjDoVZ.jpg,Tomato septoria leaf spot/septoria leaf spot2032_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2033_-fPvXbR.jpg,Tomato septoria leaf spot/septoria leaf spot2033_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2034_-vtSEnI.jpg,Tomato septoria leaf spot/septoria leaf spot2034_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2035_-kUYiPx.jpg,Tomato septoria leaf spot/septoria leaf spot2035_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2036_-OiDWxO.jpg,Tomato septoria leaf spot/septoria leaf spot2036_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2037_-aN27qf.jpg,Tomato septoria leaf spot/septoria leaf spot2037_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2038_-s2Z5hR.jpg,Tomato septoria leaf spot/septoria leaf spot2038_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2039_-fvbN7c.jpg,Tomato septoria leaf spot/septoria leaf spot2039_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2040_-dMpJ9s.jpg,Tomato septoria leaf spot/septoria leaf spot2040_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2041_-IevkBu.jpg,Tomato septoria leaf spot/septoria leaf spot2041_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2042_-qA4iIK.jpg,Tomato septoria leaf spot/septoria leaf spot2042_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2043_-oOlkTQ.jpg,Tomato septoria leaf spot/septoria leaf spot2043_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2044_-2JS7cH.jpg,Tomato septoria leaf spot/septoria leaf spot2044_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2045_-sMzxNe.jpg,Tomato septoria leaf spot/septoria leaf spot2045_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2046_-dRNSFl.jpg,Tomato septoria leaf spot/septoria leaf spot2046_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2047_-nm16xD.jpg,Tomato septoria leaf spot/septoria leaf spot2047_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2048_-yeTeHX.jpg,Tomato septoria leaf spot/septoria leaf spot2048_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2049_-h7Oz7N.jpg,Tomato septoria leaf spot/septoria leaf spot2049_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2050_-VWUN2d.jpg,Tomato septoria leaf spot/septoria leaf spot2050_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2051_-OkeSQd.jpg,Tomato septoria leaf spot/septoria leaf spot2051_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2052_-hwbQ55.jpg,Tomato septoria leaf spot/septoria leaf spot2052_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2053_-Idfhbj.jpg,Tomato septoria leaf spot/septoria leaf spot2053_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2054_-fRXyh1.jpg,Tomato septoria leaf spot/septoria leaf spot2054_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2055_-Ld2HNj.jpg,Tomato septoria leaf spot/septoria leaf spot2055_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2056_-WNXYVI.jpg,Tomato septoria leaf spot/septoria leaf spot2056_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2057_-OekEAS.jpg,Tomato septoria leaf spot/septoria leaf spot2057_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2058_-BpJUJT.jpg,Tomato septoria leaf spot/septoria leaf spot2058_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2059_-OCzyk3.jpg,Tomato septoria leaf spot/septoria leaf spot2059_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2060_-ktwk4L.jpg,Tomato septoria leaf spot/septoria leaf spot2060_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2061_-AL5YpJ.jpg,Tomato septoria leaf spot/septoria leaf spot2061_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2062_-uMr5na.jpg,Tomato septoria leaf spot/septoria leaf spot2062_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2063_-3XvRPp.jpg,Tomato septoria leaf spot/septoria leaf spot2063_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2064_-XTcjeF.jpg,Tomato septoria leaf spot/septoria leaf spot2064_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2065_-8uxmp9.jpg,Tomato septoria leaf spot/septoria leaf spot2065_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2066_-CV2VeP.jpg,Tomato septoria leaf spot/septoria leaf spot2066_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2067_-HoAqfT.jpg,Tomato septoria leaf spot/septoria leaf spot2067_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2068_-ZMsVK9.jpg,Tomato septoria leaf spot/septoria leaf spot2068_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2069_-OqgkK0.jpg,Tomato septoria leaf spot/septoria leaf spot2069_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2070_-wlmR1H.jpg,Tomato septoria leaf spot/septoria leaf spot2070_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2071_-TCq5Lu.jpg,Tomato septoria leaf spot/septoria leaf spot2071_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2072_-kjavbY.jpg,Tomato septoria leaf spot/septoria leaf spot2072_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2073_-WW5cC7.jpg,Tomato septoria leaf spot/septoria leaf spot2073_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2074_-9uqG0R.jpg,Tomato septoria leaf spot/septoria leaf spot2074_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2075_-pfI7cJ.jpg,Tomato septoria leaf spot/septoria leaf spot2075_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2076_-bPUFAH.jpg,Tomato septoria leaf spot/septoria leaf spot2076_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2077_-CeeFkL.jpg,Tomato septoria leaf spot/septoria leaf spot2077_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2078_-TB2MBZ.jpg,Tomato septoria leaf spot/septoria leaf spot2078_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2079_-fO9mHN.jpg,Tomato septoria leaf spot/septoria leaf spot2079_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2080_-BWnU2c.jpg,Tomato septoria leaf spot/septoria leaf spot2080_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2081_-cYwhim.jpg,Tomato septoria leaf spot/septoria leaf spot2081_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2082_-EPHqn4.jpg,Tomato septoria leaf spot/septoria leaf spot2082_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2083_-ixBzNv.jpg,Tomato septoria leaf spot/septoria leaf spot2083_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2084_-u3h1fA.jpg,Tomato septoria leaf spot/septoria leaf spot2084_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2085_-tBHYVH.jpg,Tomato septoria leaf spot/septoria leaf spot2085_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2086_-6FvvWS.jpg,Tomato septoria leaf spot/septoria leaf spot2086_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2087_-TSnzaJ.jpg,Tomato septoria leaf spot/septoria leaf spot2087_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2088_-erFRYU.jpg,Tomato septoria leaf spot/septoria leaf spot2088_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2089_-eHcKU9.jpg,Tomato septoria leaf spot/septoria leaf spot2089_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2090_-4JgRaF.jpg,Tomato septoria leaf spot/septoria leaf spot2090_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2091_-L97SpL.jpg,Tomato septoria leaf spot/septoria leaf spot2091_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2092_-uwpqOT.jpg,Tomato septoria leaf spot/septoria leaf spot2092_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2093_-S4BiMP.jpg,Tomato septoria leaf spot/septoria leaf spot2093_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2094_-J4qG0A.jpg,Tomato septoria leaf spot/septoria leaf spot2094_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2095_-2Vds2W.jpg,Tomato septoria leaf spot/septoria leaf spot2095_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2095_-2Vds2W.jpg,Tomato septoria leaf spot/septoria leaf spot2096_-4OjWPf.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2095_-2Vds2W.jpg,Tomato septoria leaf spot/septoria leaf spot2096_.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2095_.jpg,Tomato septoria leaf spot/septoria leaf spot2096_-4OjWPf.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2095_.jpg,Tomato septoria leaf spot/septoria leaf spot2096_.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2096_-4OjWPf.jpg,Tomato septoria leaf spot/septoria leaf spot2096_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2097_-mV9EKL.jpg,Tomato septoria leaf spot/septoria leaf spot2097_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2098_-LUY62g.jpg,Tomato septoria leaf spot/septoria leaf spot2098_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2098_-LUY62g.jpg,Tomato septoria leaf spot/septoria leaf spot2099_-qj2z4m.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2098_-LUY62g.jpg,Tomato septoria leaf spot/septoria leaf spot2099_.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2098_.jpg,Tomato septoria leaf spot/septoria leaf spot2099_-qj2z4m.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2098_.jpg,Tomato septoria leaf spot/septoria leaf spot2099_.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2099_-qj2z4m.jpg,Tomato septoria leaf spot/septoria leaf spot2099_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2100_-wlBX3j.jpg,Tomato septoria leaf spot/septoria leaf spot2100_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2100_-wlBX3j.jpg,Tomato septoria leaf spot/septoria leaf spot2101_-cYbmWq.jpg,tomato|septoria_leaf_spot,1
+Tomato septoria leaf spot/septoria leaf spot2100_-wlBX3j.jpg,Tomato septoria leaf spot/septoria leaf spot2101_.jpg,tomato|septoria_leaf_spot,1
+Tomato septoria leaf spot/septoria leaf spot2100_-wlBX3j.jpg,Tomato septoria leaf spot/septoria leaf spot2102_-gFEPCI.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2100_-wlBX3j.jpg,Tomato septoria leaf spot/septoria leaf spot2102_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2100_.jpg,Tomato septoria leaf spot/septoria leaf spot2101_-cYbmWq.jpg,tomato|septoria_leaf_spot,1
+Tomato septoria leaf spot/septoria leaf spot2100_.jpg,Tomato septoria leaf spot/septoria leaf spot2101_.jpg,tomato|septoria_leaf_spot,1
+Tomato septoria leaf spot/septoria leaf spot2100_.jpg,Tomato septoria leaf spot/septoria leaf spot2102_-gFEPCI.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2100_.jpg,Tomato septoria leaf spot/septoria leaf spot2102_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2101_-cYbmWq.jpg,Tomato septoria leaf spot/septoria leaf spot2101_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2101_-cYbmWq.jpg,Tomato septoria leaf spot/septoria leaf spot2102_-gFEPCI.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2101_-cYbmWq.jpg,Tomato septoria leaf spot/septoria leaf spot2102_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2101_.jpg,Tomato septoria leaf spot/septoria leaf spot2102_-gFEPCI.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2101_.jpg,Tomato septoria leaf spot/septoria leaf spot2102_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2102_-gFEPCI.jpg,Tomato septoria leaf spot/septoria leaf spot2102_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2103_-HRHSpH.jpg,Tomato septoria leaf spot/septoria leaf spot2103_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2108_-JL0B5N.jpg,Tomato septoria leaf spot/septoria leaf spot2108_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2109_-ZxG1bX.jpg,Tomato septoria leaf spot/septoria leaf spot2109_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2110_-qjy06q.jpg,Tomato septoria leaf spot/septoria leaf spot2110_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2112_-lYYdHx.jpg,Tomato septoria leaf spot/septoria leaf spot2112_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2116_-UQRHQs.jpg,Tomato septoria leaf spot/septoria leaf spot2116_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2117_-LoAQ0u.jpg,Tomato septoria leaf spot/septoria leaf spot2117_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2118_-035vC2.jpg,Tomato septoria leaf spot/septoria leaf spot2118_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2118_-035vC2.jpg,Tomato septoria leaf spot/septoria leaf spot2119_-QLlm3b.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2118_-035vC2.jpg,Tomato septoria leaf spot/septoria leaf spot2119_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2118_-035vC2.jpg,Tomato septoria leaf spot/septoria leaf spot2120_-iFPKec.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2118_-035vC2.jpg,Tomato septoria leaf spot/septoria leaf spot2120_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2118_.jpg,Tomato septoria leaf spot/septoria leaf spot2119_-QLlm3b.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2118_.jpg,Tomato septoria leaf spot/septoria leaf spot2119_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2118_.jpg,Tomato septoria leaf spot/septoria leaf spot2120_-iFPKec.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2118_.jpg,Tomato septoria leaf spot/septoria leaf spot2120_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2119_-QLlm3b.jpg,Tomato septoria leaf spot/septoria leaf spot2119_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2119_-QLlm3b.jpg,Tomato septoria leaf spot/septoria leaf spot2120_-iFPKec.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2119_-QLlm3b.jpg,Tomato septoria leaf spot/septoria leaf spot2120_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2119_.jpg,Tomato septoria leaf spot/septoria leaf spot2120_-iFPKec.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2119_.jpg,Tomato septoria leaf spot/septoria leaf spot2120_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2120_-iFPKec.jpg,Tomato septoria leaf spot/septoria leaf spot2120_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2123_-ZmwNYl.jpg,Tomato septoria leaf spot/septoria leaf spot2123_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2124_-2eCPda.jpg,Tomato septoria leaf spot/septoria leaf spot2124_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2124_-2eCPda.jpg,Tomato septoria leaf spot/septoria leaf spot2126_-kYZE3e.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2124_-2eCPda.jpg,Tomato septoria leaf spot/septoria leaf spot2126_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2124_.jpg,Tomato septoria leaf spot/septoria leaf spot2126_-kYZE3e.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2124_.jpg,Tomato septoria leaf spot/septoria leaf spot2126_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2125_-NTWx5z.jpg,Tomato septoria leaf spot/septoria leaf spot2125_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2126_-kYZE3e.jpg,Tomato septoria leaf spot/septoria leaf spot2126_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2126_-kYZE3e.jpg,Tomato septoria leaf spot/septoria leaf spot2127_-do0Vfb.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2126_-kYZE3e.jpg,Tomato septoria leaf spot/septoria leaf spot2127_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2126_.jpg,Tomato septoria leaf spot/septoria leaf spot2127_-do0Vfb.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2126_.jpg,Tomato septoria leaf spot/septoria leaf spot2127_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2127_-do0Vfb.jpg,Tomato septoria leaf spot/septoria leaf spot2127_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2128_-0Bi01N.jpg,Tomato septoria leaf spot/septoria leaf spot2128_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2128_-0Bi01N.jpg,Tomato septoria leaf spot/septoria leaf spot2129_-H0B31r.jpg,tomato|septoria_leaf_spot,1
+Tomato septoria leaf spot/septoria leaf spot2128_-0Bi01N.jpg,Tomato septoria leaf spot/septoria leaf spot2129_.jpg,tomato|septoria_leaf_spot,1
+Tomato septoria leaf spot/septoria leaf spot2128_.jpg,Tomato septoria leaf spot/septoria leaf spot2129_-H0B31r.jpg,tomato|septoria_leaf_spot,1
+Tomato septoria leaf spot/septoria leaf spot2128_.jpg,Tomato septoria leaf spot/septoria leaf spot2129_.jpg,tomato|septoria_leaf_spot,1
+Tomato septoria leaf spot/septoria leaf spot2129_-H0B31r.jpg,Tomato septoria leaf spot/septoria leaf spot2129_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2130_-PN1iX7.jpg,Tomato septoria leaf spot/septoria leaf spot2130_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2130_-PN1iX7.jpg,Tomato septoria leaf spot/septoria leaf spot2131_-jAZGDP.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2130_-PN1iX7.jpg,Tomato septoria leaf spot/septoria leaf spot2131_.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2130_.jpg,Tomato septoria leaf spot/septoria leaf spot2131_-jAZGDP.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2130_.jpg,Tomato septoria leaf spot/septoria leaf spot2131_.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2131_-jAZGDP.jpg,Tomato septoria leaf spot/septoria leaf spot2131_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2132_-64NUqt.jpg,Tomato septoria leaf spot/septoria leaf spot2132_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2133_-FSFxWR.jpg,Tomato septoria leaf spot/septoria leaf spot2133_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2135_-Cwuuoa.jpg,Tomato septoria leaf spot/septoria leaf spot2135_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2137_-Qnyq7M.jpg,Tomato septoria leaf spot/septoria leaf spot2137_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2138_-YuRUQg.jpg,Tomato septoria leaf spot/septoria leaf spot2138_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2138_-YuRUQg.jpg,Tomato septoria leaf spot/septoria leaf spot2139_-DSwyym.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2138_-YuRUQg.jpg,Tomato septoria leaf spot/septoria leaf spot2139_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2138_.jpg,Tomato septoria leaf spot/septoria leaf spot2139_-DSwyym.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2138_.jpg,Tomato septoria leaf spot/septoria leaf spot2139_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2139_-DSwyym.jpg,Tomato septoria leaf spot/septoria leaf spot2139_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2141_-jOLJsr.jpg,Tomato septoria leaf spot/septoria leaf spot2141_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2142_-aXm5h2.jpg,Tomato septoria leaf spot/septoria leaf spot2142_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2145_-siyy6X.jpg,Tomato septoria leaf spot/septoria leaf spot2145_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2145_-siyy6X.jpg,Tomato septoria leaf spot/septoria leaf spot2146_-gOtWqN.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2145_-siyy6X.jpg,Tomato septoria leaf spot/septoria leaf spot2146_.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2145_.jpg,Tomato septoria leaf spot/septoria leaf spot2146_-gOtWqN.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2145_.jpg,Tomato septoria leaf spot/septoria leaf spot2146_.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2146_-gOtWqN.jpg,Tomato septoria leaf spot/septoria leaf spot2146_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2147_-L4k7vN.jpg,Tomato septoria leaf spot/septoria leaf spot2147_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2147_-L4k7vN.jpg,Tomato septoria leaf spot/septoria leaf spot8_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2147_.jpg,Tomato septoria leaf spot/septoria leaf spot8_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2148_-M2u8aP.jpg,Tomato septoria leaf spot/septoria leaf spot2148_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2149_-YLz5Y4.jpg,Tomato septoria leaf spot/septoria leaf spot2149_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2150_-pyAppG.jpg,Tomato septoria leaf spot/septoria leaf spot2150_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2151_-8zuolr.jpg,Tomato septoria leaf spot/septoria leaf spot2151_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2152_-aFcdQ6.jpg,Tomato septoria leaf spot/septoria leaf spot2152_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2153_-G6QQhp.jpg,Tomato septoria leaf spot/septoria leaf spot2153_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2154_-UFejP1.jpg,Tomato septoria leaf spot/septoria leaf spot2154_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2155_-0GISPk.jpg,Tomato septoria leaf spot/septoria leaf spot2155_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2156_-vVhQIN.jpg,Tomato septoria leaf spot/septoria leaf spot2156_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2157_-9tnufy.jpg,Tomato septoria leaf spot/septoria leaf spot2157_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2158_-yzNVdi.jpg,Tomato septoria leaf spot/septoria leaf spot2158_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2159_-1eLhAx.jpg,Tomato septoria leaf spot/septoria leaf spot2159_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2160_-dZ9bhv.jpg,Tomato septoria leaf spot/septoria leaf spot2160_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2161_-Mv9TdB.jpg,Tomato septoria leaf spot/septoria leaf spot2161_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2162_-goTs0Y.jpg,Tomato septoria leaf spot/septoria leaf spot2162_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2163_-YluE0y.jpg,Tomato septoria leaf spot/septoria leaf spot2163_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2164_-crFA8t.jpg,Tomato septoria leaf spot/septoria leaf spot2164_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2165_-Ee1IJ7.jpg,Tomato septoria leaf spot/septoria leaf spot2165_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2166_-lahg2e.jpg,Tomato septoria leaf spot/septoria leaf spot2166_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2167_-FFm8GP.jpg,Tomato septoria leaf spot/septoria leaf spot2167_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2168_-eGFRbj.jpg,Tomato septoria leaf spot/septoria leaf spot2168_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2169_-9v0KqV.jpg,Tomato septoria leaf spot/septoria leaf spot2169_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2169_-9v0KqV.jpg,Tomato septoria leaf spot/septoria leaf spot2170_-xwzI8Z.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2169_-9v0KqV.jpg,Tomato septoria leaf spot/septoria leaf spot2170_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2169_.jpg,Tomato septoria leaf spot/septoria leaf spot2170_-xwzI8Z.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2169_.jpg,Tomato septoria leaf spot/septoria leaf spot2170_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2170_-xwzI8Z.jpg,Tomato septoria leaf spot/septoria leaf spot2170_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2171_-jhNL6s.jpg,Tomato septoria leaf spot/septoria leaf spot2171_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2172_-iVfwtt.jpg,Tomato septoria leaf spot/septoria leaf spot2172_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2173_-xytENP.jpg,Tomato septoria leaf spot/septoria leaf spot2173_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2174_-YsAjYX.jpg,Tomato septoria leaf spot/septoria leaf spot2174_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2175_-GXxoQr.jpg,Tomato septoria leaf spot/septoria leaf spot2175_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2176_-uCFSjT.jpg,Tomato septoria leaf spot/septoria leaf spot2176_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2177_-6hkus0.jpg,Tomato septoria leaf spot/septoria leaf spot2177_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2178_-l376Hw.jpg,Tomato septoria leaf spot/septoria leaf spot2178_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2179_-jBts4k.jpg,Tomato septoria leaf spot/septoria leaf spot2179_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2180_-5UXCvF.jpg,Tomato septoria leaf spot/septoria leaf spot2180_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2181_-nggrBH.jpg,Tomato septoria leaf spot/septoria leaf spot2181_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2182_-iE9F3T.jpg,Tomato septoria leaf spot/septoria leaf spot2182_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2183_-Em1QLV.jpg,Tomato septoria leaf spot/septoria leaf spot2183_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2184_-PfYIUr.jpg,Tomato septoria leaf spot/septoria leaf spot2184_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2185_-Gkjtdt.jpg,Tomato septoria leaf spot/septoria leaf spot2185_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2186_-7MbkRi.jpg,Tomato septoria leaf spot/septoria leaf spot2186_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2187_-Shsy30.jpg,Tomato septoria leaf spot/septoria leaf spot2187_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2188_-A5rlww.jpg,Tomato septoria leaf spot/septoria leaf spot2188_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2189_-JuGoZY.jpg,Tomato septoria leaf spot/septoria leaf spot2189_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2190_-FjP09t.jpg,Tomato septoria leaf spot/septoria leaf spot2190_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2191_-CBfjwy.jpg,Tomato septoria leaf spot/septoria leaf spot2191_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2192_-YnyfAT.jpg,Tomato septoria leaf spot/septoria leaf spot2192_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2193_-WyMsZF.jpg,Tomato septoria leaf spot/septoria leaf spot2193_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2194_-6JHwQn.jpg,Tomato septoria leaf spot/septoria leaf spot2194_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2195_-ZE6hQb.jpg,Tomato septoria leaf spot/septoria leaf spot2195_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2196_-ucfnjX.jpg,Tomato septoria leaf spot/septoria leaf spot2196_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2197_-Osz85h.jpg,Tomato septoria leaf spot/septoria leaf spot2197_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2198_-LrIRpm.jpg,Tomato septoria leaf spot/septoria leaf spot2198_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2199_-flP7Vt.jpg,Tomato septoria leaf spot/septoria leaf spot2199_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2200_-TXVmYO.jpg,Tomato septoria leaf spot/septoria leaf spot2200_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2201_-fol4uT.jpg,Tomato septoria leaf spot/septoria leaf spot2201_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2202_-Sk83jK.jpg,Tomato septoria leaf spot/septoria leaf spot2202_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2203_-mZgfDs.jpg,Tomato septoria leaf spot/septoria leaf spot2203_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2204_-qGA3TV.jpg,Tomato septoria leaf spot/septoria leaf spot2204_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2205_-iCs4si.jpg,Tomato septoria leaf spot/septoria leaf spot2205_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2205_-iCs4si.jpg,Tomato septoria leaf spot/septoria leaf spot4_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2205_.jpg,Tomato septoria leaf spot/septoria leaf spot4_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2206_-foB02l.jpg,Tomato septoria leaf spot/septoria leaf spot2206_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2206_-foB02l.jpg,Tomato septoria leaf spot/septoria leaf spot2207_-CHt0hO.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2206_-foB02l.jpg,Tomato septoria leaf spot/septoria leaf spot2207_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2206_-foB02l.jpg,Tomato septoria leaf spot/septoria leaf spot2208_-2koxUk.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2206_-foB02l.jpg,Tomato septoria leaf spot/septoria leaf spot2208_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2206_-foB02l.jpg,Tomato septoria leaf spot/septoria leaf spot2302_-dGQ5BB.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2206_-foB02l.jpg,Tomato septoria leaf spot/septoria leaf spot2302_.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2206_.jpg,Tomato septoria leaf spot/septoria leaf spot2207_-CHt0hO.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2206_.jpg,Tomato septoria leaf spot/septoria leaf spot2207_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2206_.jpg,Tomato septoria leaf spot/septoria leaf spot2208_-2koxUk.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2206_.jpg,Tomato septoria leaf spot/septoria leaf spot2208_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2206_.jpg,Tomato septoria leaf spot/septoria leaf spot2302_-dGQ5BB.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2206_.jpg,Tomato septoria leaf spot/septoria leaf spot2302_.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2207_-CHt0hO.jpg,Tomato septoria leaf spot/septoria leaf spot2207_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2207_-CHt0hO.jpg,Tomato septoria leaf spot/septoria leaf spot2208_-2koxUk.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2207_-CHt0hO.jpg,Tomato septoria leaf spot/septoria leaf spot2208_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2207_-CHt0hO.jpg,Tomato septoria leaf spot/septoria leaf spot2302_-dGQ5BB.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2207_-CHt0hO.jpg,Tomato septoria leaf spot/septoria leaf spot2302_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2207_.jpg,Tomato septoria leaf spot/septoria leaf spot2208_-2koxUk.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2207_.jpg,Tomato septoria leaf spot/septoria leaf spot2208_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2207_.jpg,Tomato septoria leaf spot/septoria leaf spot2302_-dGQ5BB.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2207_.jpg,Tomato septoria leaf spot/septoria leaf spot2302_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2208_-2koxUk.jpg,Tomato septoria leaf spot/septoria leaf spot2208_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2208_-2koxUk.jpg,Tomato septoria leaf spot/septoria leaf spot2302_-dGQ5BB.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2208_-2koxUk.jpg,Tomato septoria leaf spot/septoria leaf spot2302_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2208_.jpg,Tomato septoria leaf spot/septoria leaf spot2302_-dGQ5BB.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2208_.jpg,Tomato septoria leaf spot/septoria leaf spot2302_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2209_-TCoBAR.jpg,Tomato septoria leaf spot/septoria leaf spot2209_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2209_-TCoBAR.jpg,Tomato septoria leaf spot/septoria leaf spot2306_-6Oomgi.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2209_-TCoBAR.jpg,Tomato septoria leaf spot/septoria leaf spot2306_.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2209_.jpg,Tomato septoria leaf spot/septoria leaf spot2306_-6Oomgi.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2209_.jpg,Tomato septoria leaf spot/septoria leaf spot2306_.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2210_-SaD6s8.jpg,Tomato septoria leaf spot/septoria leaf spot2210_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2211_-eIUnwS.jpg,Tomato septoria leaf spot/septoria leaf spot2211_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2212_-ngsCF3.jpg,Tomato septoria leaf spot/septoria leaf spot2212_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2212_-ngsCF3.jpg,Tomato septoria leaf spot/septoria leaf spot2213_-ruWoLR.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2212_-ngsCF3.jpg,Tomato septoria leaf spot/septoria leaf spot2213_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2212_-ngsCF3.jpg,Tomato septoria leaf spot/septoria leaf spot2214_-j83aIK.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2212_-ngsCF3.jpg,Tomato septoria leaf spot/septoria leaf spot2214_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2212_.jpg,Tomato septoria leaf spot/septoria leaf spot2213_-ruWoLR.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2212_.jpg,Tomato septoria leaf spot/septoria leaf spot2213_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2212_.jpg,Tomato septoria leaf spot/septoria leaf spot2214_-j83aIK.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2212_.jpg,Tomato septoria leaf spot/septoria leaf spot2214_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2213_-ruWoLR.jpg,Tomato septoria leaf spot/septoria leaf spot2213_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2213_-ruWoLR.jpg,Tomato septoria leaf spot/septoria leaf spot2214_-j83aIK.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2213_-ruWoLR.jpg,Tomato septoria leaf spot/septoria leaf spot2214_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2213_.jpg,Tomato septoria leaf spot/septoria leaf spot2214_-j83aIK.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2213_.jpg,Tomato septoria leaf spot/septoria leaf spot2214_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2214_-j83aIK.jpg,Tomato septoria leaf spot/septoria leaf spot2214_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2215_-Nh8JPf.jpg,Tomato septoria leaf spot/septoria leaf spot2215_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2216_-VVUgwh.jpg,Tomato septoria leaf spot/septoria leaf spot2216_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2217_-2xBzUi.jpg,Tomato septoria leaf spot/septoria leaf spot2217_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2218_-aHvPJZ.jpg,Tomato septoria leaf spot/septoria leaf spot2218_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2219_-HIbtZ9.jpg,Tomato septoria leaf spot/septoria leaf spot2219_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2220_-G6B0Wz.jpg,Tomato septoria leaf spot/septoria leaf spot2220_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2221_-LEzWKw.jpg,Tomato septoria leaf spot/septoria leaf spot2221_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2222_-p3kIq8.jpg,Tomato septoria leaf spot/septoria leaf spot2222_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2223_-SLrQk1.jpg,Tomato septoria leaf spot/septoria leaf spot2223_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2224_-uuyoOu.jpg,Tomato septoria leaf spot/septoria leaf spot2224_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2225_-wWCoNX.jpg,Tomato septoria leaf spot/septoria leaf spot2225_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2226_-sXRI3v.jpg,Tomato septoria leaf spot/septoria leaf spot2226_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2227_-yjDiTh.jpg,Tomato septoria leaf spot/septoria leaf spot2227_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2228_-TgcnQL.jpg,Tomato septoria leaf spot/septoria leaf spot2228_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2229_-GWGuNR.jpg,Tomato septoria leaf spot/septoria leaf spot2229_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2230_-N8XFc2.jpg,Tomato septoria leaf spot/septoria leaf spot2230_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2231_-op4DUL.jpg,Tomato septoria leaf spot/septoria leaf spot2231_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2232_-KjPSdf.jpg,Tomato septoria leaf spot/septoria leaf spot2232_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2233_-UvwKnf.jpg,Tomato septoria leaf spot/septoria leaf spot2233_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2234_-I28CHQ.jpg,Tomato septoria leaf spot/septoria leaf spot2234_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2235_-DHPUZk.jpg,Tomato septoria leaf spot/septoria leaf spot2235_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2236_-sRXCQM.jpg,Tomato septoria leaf spot/septoria leaf spot2236_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2237_-FLgU9i.jpg,Tomato septoria leaf spot/septoria leaf spot2237_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2238_-hYJ6JK.jpg,Tomato septoria leaf spot/septoria leaf spot2238_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2239_-OY36RE.jpg,Tomato septoria leaf spot/septoria leaf spot2239_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2240_-PLLEci.jpg,Tomato septoria leaf spot/septoria leaf spot2240_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2241_-nn8fiR.jpg,Tomato septoria leaf spot/septoria leaf spot2241_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2242_-UKwpz7.jpg,Tomato septoria leaf spot/septoria leaf spot2242_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2243_-jLQ3XY.jpg,Tomato septoria leaf spot/septoria leaf spot2243_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2244_-THFY9v.jpg,Tomato septoria leaf spot/septoria leaf spot2244_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2245_-IWgmlZ.jpg,Tomato septoria leaf spot/septoria leaf spot2245_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2246_-Cg0Ycu.jpg,Tomato septoria leaf spot/septoria leaf spot2246_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2247_-ziMTMz.jpg,Tomato septoria leaf spot/septoria leaf spot2247_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2248_-dbPUC7.jpg,Tomato septoria leaf spot/septoria leaf spot2248_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2249_-raALdy.jpg,Tomato septoria leaf spot/septoria leaf spot2249_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2250_-SjrH5d.jpg,Tomato septoria leaf spot/septoria leaf spot2250_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2251_-0hpDMz.jpg,Tomato septoria leaf spot/septoria leaf spot2251_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2252_-LD0yn8.jpg,Tomato septoria leaf spot/septoria leaf spot2252_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2253_-xZHCQK.jpg,Tomato septoria leaf spot/septoria leaf spot2253_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2254_-5mM8M4.jpg,Tomato septoria leaf spot/septoria leaf spot2254_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2255_-7rK9B2.jpg,Tomato septoria leaf spot/septoria leaf spot2255_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2256_-KgeuNw.jpg,Tomato septoria leaf spot/septoria leaf spot2256_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2257_-ELt6i9.jpg,Tomato septoria leaf spot/septoria leaf spot2257_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2258_-YzHi49.jpg,Tomato septoria leaf spot/septoria leaf spot2258_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2259_-DHd53R.jpg,Tomato septoria leaf spot/septoria leaf spot2259_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2260_-DkkZa8.jpg,Tomato septoria leaf spot/septoria leaf spot2260_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2261_-vSH4Yt.jpg,Tomato septoria leaf spot/septoria leaf spot2261_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2262_-oRJ3fJ.jpg,Tomato septoria leaf spot/septoria leaf spot2262_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2263_-wt60Yw.jpg,Tomato septoria leaf spot/septoria leaf spot2263_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2264_-dZMnAv.jpg,Tomato septoria leaf spot/septoria leaf spot2264_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2265_-1P58Bb.jpg,Tomato septoria leaf spot/septoria leaf spot2265_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2266_-ICJG1l.jpg,Tomato septoria leaf spot/septoria leaf spot2266_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2267_-V5CqgC.jpg,Tomato septoria leaf spot/septoria leaf spot2267_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2268_-bnHG6N.jpg,Tomato septoria leaf spot/septoria leaf spot2268_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2269_-8S14RI.jpg,Tomato septoria leaf spot/septoria leaf spot2269_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2270_-RBehqZ.jpg,Tomato septoria leaf spot/septoria leaf spot2270_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2271_-4j7gyC.jpg,Tomato septoria leaf spot/septoria leaf spot2271_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2272_-siqYk3.jpg,Tomato septoria leaf spot/septoria leaf spot2272_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2273_-iozskH.jpg,Tomato septoria leaf spot/septoria leaf spot2273_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2274_-uWyL7R.jpg,Tomato septoria leaf spot/septoria leaf spot2274_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2275_-PRrijL.jpg,Tomato septoria leaf spot/septoria leaf spot2275_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2276_-xlTUgJ.jpg,Tomato septoria leaf spot/septoria leaf spot2276_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2277_-mbOZXp.jpg,Tomato septoria leaf spot/septoria leaf spot2277_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2278_-1yxhGZ.jpg,Tomato septoria leaf spot/septoria leaf spot2278_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2279_-C9rIUR.jpg,Tomato septoria leaf spot/septoria leaf spot2279_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2280_-xT5iyY.jpg,Tomato septoria leaf spot/septoria leaf spot2280_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2281_-gDsIM9.jpg,Tomato septoria leaf spot/septoria leaf spot2281_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2282_-oI0qlz.jpg,Tomato septoria leaf spot/septoria leaf spot2282_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2283_-ydDLBk.jpg,Tomato septoria leaf spot/septoria leaf spot2283_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2284_-Wcue4A.jpg,Tomato septoria leaf spot/septoria leaf spot2284_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2285_-NsxgLy.jpg,Tomato septoria leaf spot/septoria leaf spot2285_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2286_-VoRNJY.jpg,Tomato septoria leaf spot/septoria leaf spot2286_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2287_-Psw53Q.jpg,Tomato septoria leaf spot/septoria leaf spot2287_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2288_-gGq4ef.jpg,Tomato septoria leaf spot/septoria leaf spot2288_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2289_-LDlrnB.jpg,Tomato septoria leaf spot/septoria leaf spot2289_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2290_-xZk5VQ.jpg,Tomato septoria leaf spot/septoria leaf spot2290_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2291_-x5zHsi.jpg,Tomato septoria leaf spot/septoria leaf spot2291_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2292_-QM3SoI.jpg,Tomato septoria leaf spot/septoria leaf spot2292_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2293_-OQNeH3.jpg,Tomato septoria leaf spot/septoria leaf spot2293_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2294_-lzDJZ5.jpg,Tomato septoria leaf spot/septoria leaf spot2294_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2295_-XKNxPP.jpg,Tomato septoria leaf spot/septoria leaf spot2295_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2296_-I96DP1.jpg,Tomato septoria leaf spot/septoria leaf spot2296_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2297_-kQJh7N.jpg,Tomato septoria leaf spot/septoria leaf spot2297_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2302_-dGQ5BB.jpg,Tomato septoria leaf spot/septoria leaf spot2302_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2306_-6Oomgi.jpg,Tomato septoria leaf spot/septoria leaf spot2306_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2307_-uKxSUJ.jpg,Tomato septoria leaf spot/septoria leaf spot2307_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2308_-I4cNQs.jpg,Tomato septoria leaf spot/septoria leaf spot2308_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2308_-I4cNQs.jpg,Tomato septoria leaf spot/septoria leaf spot2309_-OfbjyV.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2308_-I4cNQs.jpg,Tomato septoria leaf spot/septoria leaf spot2309_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2308_.jpg,Tomato septoria leaf spot/septoria leaf spot2309_-OfbjyV.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2308_.jpg,Tomato septoria leaf spot/septoria leaf spot2309_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2309_-OfbjyV.jpg,Tomato septoria leaf spot/septoria leaf spot2309_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2310_-fU8ZIY.jpg,Tomato septoria leaf spot/septoria leaf spot2310_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2311_-U6xzgt.jpg,Tomato septoria leaf spot/septoria leaf spot2311_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2311_-U6xzgt.jpg,Tomato septoria leaf spot/septoria leaf spot2312_-GQSdc7.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2311_-U6xzgt.jpg,Tomato septoria leaf spot/septoria leaf spot2312_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2311_.jpg,Tomato septoria leaf spot/septoria leaf spot2312_-GQSdc7.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2311_.jpg,Tomato septoria leaf spot/septoria leaf spot2312_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2312_-GQSdc7.jpg,Tomato septoria leaf spot/septoria leaf spot2312_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2316_-tU3s8K.jpg,Tomato septoria leaf spot/septoria leaf spot2316_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2317_-0vbwLo.jpg,Tomato septoria leaf spot/septoria leaf spot2317_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2318_-ibi148.jpg,Tomato septoria leaf spot/septoria leaf spot2318_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2319_-op0EBn.jpg,Tomato septoria leaf spot/septoria leaf spot2319_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2320_-ROgzJw.jpg,Tomato septoria leaf spot/septoria leaf spot2320_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2321_-0NUZQx.jpg,Tomato septoria leaf spot/septoria leaf spot2321_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2322_-N9bEmR.jpg,Tomato septoria leaf spot/septoria leaf spot2322_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2323_-7qNZqN.jpg,Tomato septoria leaf spot/septoria leaf spot2323_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2323_-7qNZqN.jpg,Tomato septoria leaf spot/septoria leaf spot2324_-hXQpcB.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2323_-7qNZqN.jpg,Tomato septoria leaf spot/septoria leaf spot2324_.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2323_.jpg,Tomato septoria leaf spot/septoria leaf spot2324_-hXQpcB.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2323_.jpg,Tomato septoria leaf spot/septoria leaf spot2324_.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2324_-hXQpcB.jpg,Tomato septoria leaf spot/septoria leaf spot2324_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2325_-RLI584.jpg,Tomato septoria leaf spot/septoria leaf spot2325_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2326_-3hAxt4.jpg,Tomato septoria leaf spot/septoria leaf spot2326_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2327_-1HeHIq.jpg,Tomato septoria leaf spot/septoria leaf spot2327_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2328_-SPVosE.jpg,Tomato septoria leaf spot/septoria leaf spot2328_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2329_-RhLr4y.jpg,Tomato septoria leaf spot/septoria leaf spot2329_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2330_-TZhOYX.jpg,Tomato septoria leaf spot/septoria leaf spot2330_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2331_-QJeYr8.jpg,Tomato septoria leaf spot/septoria leaf spot2331_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2332_-PBoOHM.jpg,Tomato septoria leaf spot/septoria leaf spot2332_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2333_-zFHs6E.jpg,Tomato septoria leaf spot/septoria leaf spot2333_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2334_-BM6hqj.jpg,Tomato septoria leaf spot/septoria leaf spot2334_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2335_-xQfXjz.jpg,Tomato septoria leaf spot/septoria leaf spot2335_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2336_-L0rfKo.jpg,Tomato septoria leaf spot/septoria leaf spot2336_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2337_-t3hRHJ.jpg,Tomato septoria leaf spot/septoria leaf spot2337_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2338_-b3pNih.jpg,Tomato septoria leaf spot/septoria leaf spot2338_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2339_-4qOr5E.jpg,Tomato septoria leaf spot/septoria leaf spot2339_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2340_-cmFkOl.jpg,Tomato septoria leaf spot/septoria leaf spot2340_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2341_-VvVUrX.jpg,Tomato septoria leaf spot/septoria leaf spot2341_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2342_-sQwn7Q.jpg,Tomato septoria leaf spot/septoria leaf spot2342_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2343_-T77DZ1.jpg,Tomato septoria leaf spot/septoria leaf spot2343_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2344_-ME7xhu.jpg,Tomato septoria leaf spot/septoria leaf spot2344_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2345_-kjBvl7.jpg,Tomato septoria leaf spot/septoria leaf spot2345_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2345_-kjBvl7.jpg,Tomato septoria leaf spot/septoria leaf spot2346_-5fJd52.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2345_-kjBvl7.jpg,Tomato septoria leaf spot/septoria leaf spot2346_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2345_.jpg,Tomato septoria leaf spot/septoria leaf spot2346_-5fJd52.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2345_.jpg,Tomato septoria leaf spot/septoria leaf spot2346_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2346_-5fJd52.jpg,Tomato septoria leaf spot/septoria leaf spot2346_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2347_-kHVolW.jpg,Tomato septoria leaf spot/septoria leaf spot2347_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2347_-kHVolW.jpg,Tomato septoria leaf spot/septoria leaf spot2348_-B0pcQe.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2347_-kHVolW.jpg,Tomato septoria leaf spot/septoria leaf spot2348_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2347_.jpg,Tomato septoria leaf spot/septoria leaf spot2348_-B0pcQe.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2347_.jpg,Tomato septoria leaf spot/septoria leaf spot2348_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2348_-B0pcQe.jpg,Tomato septoria leaf spot/septoria leaf spot2348_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2349_-7bpYUM.jpg,Tomato septoria leaf spot/septoria leaf spot2349_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2350_-Ljhn0F.jpg,Tomato septoria leaf spot/septoria leaf spot2350_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2351_-aTARPr.jpg,Tomato septoria leaf spot/septoria leaf spot2351_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2352_-Jf2uQC.jpg,Tomato septoria leaf spot/septoria leaf spot2352_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2352_-Jf2uQC.jpg,Tomato septoria leaf spot/septoria leaf spot2353_-fmHpV0.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2352_-Jf2uQC.jpg,Tomato septoria leaf spot/septoria leaf spot2353_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2352_.jpg,Tomato septoria leaf spot/septoria leaf spot2353_-fmHpV0.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2352_.jpg,Tomato septoria leaf spot/septoria leaf spot2353_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2353_-fmHpV0.jpg,Tomato septoria leaf spot/septoria leaf spot2353_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2354_-WNYphn.jpg,Tomato septoria leaf spot/septoria leaf spot2354_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2355_-I3tR8h.jpg,Tomato septoria leaf spot/septoria leaf spot2355_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2356_-45mZ2T.jpg,Tomato septoria leaf spot/septoria leaf spot2356_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2357_-yOG8hQ.jpg,Tomato septoria leaf spot/septoria leaf spot2357_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2358_-x0cabs.jpg,Tomato septoria leaf spot/septoria leaf spot2358_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2359_-cnyW1F.jpg,Tomato septoria leaf spot/septoria leaf spot2359_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2359_-cnyW1F.jpg,Tomato septoria leaf spot/septoria leaf spot2360_-ItGwon.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2359_-cnyW1F.jpg,Tomato septoria leaf spot/septoria leaf spot2360_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2359_.jpg,Tomato septoria leaf spot/septoria leaf spot2360_-ItGwon.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2359_.jpg,Tomato septoria leaf spot/septoria leaf spot2360_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2360_-ItGwon.jpg,Tomato septoria leaf spot/septoria leaf spot2360_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2361_-Qhvs8B.jpg,Tomato septoria leaf spot/septoria leaf spot2361_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2362_-2J6Hgl.jpg,Tomato septoria leaf spot/septoria leaf spot2362_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2362_-2J6Hgl.jpg,Tomato septoria leaf spot/septoria leaf spot2363_-SC2TKR.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2362_-2J6Hgl.jpg,Tomato septoria leaf spot/septoria leaf spot2363_.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2362_.jpg,Tomato septoria leaf spot/septoria leaf spot2363_-SC2TKR.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2362_.jpg,Tomato septoria leaf spot/septoria leaf spot2363_.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2363_-SC2TKR.jpg,Tomato septoria leaf spot/septoria leaf spot2363_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2364_-ycqi9l.jpg,Tomato septoria leaf spot/septoria leaf spot2364_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2365_-Vk676z.jpg,Tomato septoria leaf spot/septoria leaf spot2365_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2366_-ekwNkJ.jpg,Tomato septoria leaf spot/septoria leaf spot2366_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2367_-j0dDrq.jpg,Tomato septoria leaf spot/septoria leaf spot2367_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2367_-j0dDrq.jpg,Tomato septoria leaf spot/septoria leaf spot2368_-yZMaBk.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2367_-j0dDrq.jpg,Tomato septoria leaf spot/septoria leaf spot2368_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2367_.jpg,Tomato septoria leaf spot/septoria leaf spot2368_-yZMaBk.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2367_.jpg,Tomato septoria leaf spot/septoria leaf spot2368_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2368_-yZMaBk.jpg,Tomato septoria leaf spot/septoria leaf spot2368_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2369_-LEpsXp.jpg,Tomato septoria leaf spot/septoria leaf spot2369_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2369_-LEpsXp.jpg,Tomato septoria leaf spot/septoria leaf spot2370_-WRZRBL.jpg,tomato|septoria_leaf_spot,1
+Tomato septoria leaf spot/septoria leaf spot2369_-LEpsXp.jpg,Tomato septoria leaf spot/septoria leaf spot2370_.jpg,tomato|septoria_leaf_spot,1
+Tomato septoria leaf spot/septoria leaf spot2369_.jpg,Tomato septoria leaf spot/septoria leaf spot2370_-WRZRBL.jpg,tomato|septoria_leaf_spot,1
+Tomato septoria leaf spot/septoria leaf spot2369_.jpg,Tomato septoria leaf spot/septoria leaf spot2370_.jpg,tomato|septoria_leaf_spot,1
+Tomato septoria leaf spot/septoria leaf spot2370_-WRZRBL.jpg,Tomato septoria leaf spot/septoria leaf spot2370_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2371_-xpXGL8.jpg,Tomato septoria leaf spot/septoria leaf spot2371_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2371_-xpXGL8.jpg,Tomato septoria leaf spot/septoria leaf spot2372_-Ng9JwR.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2371_-xpXGL8.jpg,Tomato septoria leaf spot/septoria leaf spot2372_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2371_.jpg,Tomato septoria leaf spot/septoria leaf spot2372_-Ng9JwR.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2371_.jpg,Tomato septoria leaf spot/septoria leaf spot2372_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2372_-Ng9JwR.jpg,Tomato septoria leaf spot/septoria leaf spot2372_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2373_-bo5Vor.jpg,Tomato septoria leaf spot/septoria leaf spot2373_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2374_-Vv8Puu.jpg,Tomato septoria leaf spot/septoria leaf spot2374_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2375_-ItNWqC.jpg,Tomato septoria leaf spot/septoria leaf spot2375_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2375_-ItNWqC.jpg,Tomato septoria leaf spot/septoria leaf spot2376_-lMgKTY.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2375_-ItNWqC.jpg,Tomato septoria leaf spot/septoria leaf spot2376_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2375_.jpg,Tomato septoria leaf spot/septoria leaf spot2376_-lMgKTY.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2375_.jpg,Tomato septoria leaf spot/septoria leaf spot2376_.jpg,tomato|septoria_leaf_spot,3
+Tomato septoria leaf spot/septoria leaf spot2376_-lMgKTY.jpg,Tomato septoria leaf spot/septoria leaf spot2376_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2377_-j0MdzK.jpg,Tomato septoria leaf spot/septoria leaf spot2377_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2377_-j0MdzK.jpg,Tomato septoria leaf spot/septoria leaf spot2378_-04WxbA.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2377_-j0MdzK.jpg,Tomato septoria leaf spot/septoria leaf spot2378_.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2377_.jpg,Tomato septoria leaf spot/septoria leaf spot2378_-04WxbA.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2377_.jpg,Tomato septoria leaf spot/septoria leaf spot2378_.jpg,tomato|septoria_leaf_spot,2
+Tomato septoria leaf spot/septoria leaf spot2378_-04WxbA.jpg,Tomato septoria leaf spot/septoria leaf spot2378_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2379_-BWBZ7B.jpg,Tomato septoria leaf spot/septoria leaf spot2379_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2380_-x28NWv.jpg,Tomato septoria leaf spot/septoria leaf spot2380_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot2380_-x28NWv.jpg,Tomato septoria leaf spot/septoria leaf spot2381_-9HxbKO.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2380_-x28NWv.jpg,Tomato septoria leaf spot/septoria leaf spot2381_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2380_.jpg,Tomato septoria leaf spot/septoria leaf spot2381_-9HxbKO.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2380_.jpg,Tomato septoria leaf spot/septoria leaf spot2381_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot2381_-9HxbKO.jpg,Tomato septoria leaf spot/septoria leaf spot2381_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot48_.jpg,Tomato septoria leaf spot/septoria leaf spot49_.jpg,tomato|septoria_leaf_spot,0
+Tomato septoria leaf spot/septoria leaf spot6_.jpg,Tomato septoria leaf spot/septoria leaf spot7_.jpg,tomato|septoria_leaf_spot,4
+Tomato septoria leaf spot/septoria leaf spot745_.jpg,Tomato septoria leaf spot/septoria leaf spot746_.jpg,tomato|septoria_leaf_spot,1
+Tomato verticulium wilt/verticulium wilt165_.jpg,Tomato verticulium wilt/verticulium wilt166_.jpg,tomato|verticillium_wilt,2
+Tomato verticulium wilt/verticulium wilt196_.jpg,Tomato verticulium wilt/verticulium wilt479_.jpg,tomato|verticillium_wilt,4
+Tomato verticulium wilt/verticulium wilt2_.jpg,Tomato verticulium wilt/verticulium wilt710_.jpg,tomato|verticillium_wilt,4
+Tomato verticulium wilt/verticulium wilt2_.jpg,Tomato verticulium wilt/verticulium wilt742_.jpg,tomato|verticillium_wilt,2
+Tomato verticulium wilt/verticulium wilt2_.jpg,Tomato verticulium wilt/verticulium wilt743_.jpg,tomato|verticillium_wilt,1
+Tomato verticulium wilt/verticulium wilt2_.jpg,Tomato verticulium wilt/verticulium wilt744_.jpg,tomato|verticillium_wilt,0
+Tomato verticulium wilt/verticulium wilt502_.jpg,Tomato verticulium wilt/verticulium wilt503_.jpg,tomato|verticillium_wilt,1
+Tomato verticulium wilt/verticulium wilt527_.jpg,Tomato verticulium wilt/verticulium wilt528_.jpg,tomato|verticillium_wilt,4
+Tomato verticulium wilt/verticulium wilt596_.jpg,Tomato verticulium wilt/verticulium wilt597_.jpg,tomato|verticillium_wilt,0
+Tomato verticulium wilt/verticulium wilt627_.jpg,Tomato verticulium wilt/verticulium wilt631_.jpg,tomato|verticillium_wilt,1
+Tomato verticulium wilt/verticulium wilt629_.jpg,Tomato verticulium wilt/verticulium wilt630_.jpg,tomato|verticillium_wilt,4
+Tomato verticulium wilt/verticulium wilt636_.jpg,Tomato verticulium wilt/verticulium wilt637_.jpg,tomato|verticillium_wilt,2
+Tomato verticulium wilt/verticulium wilt642_.jpg,Tomato verticulium wilt/verticulium wilt643_.jpg,tomato|verticillium_wilt,2
+Tomato verticulium wilt/verticulium wilt642_.jpg,Tomato verticulium wilt/verticulium wilt644_.jpg,tomato|verticillium_wilt,3
+Tomato verticulium wilt/verticulium wilt643_.jpg,Tomato verticulium wilt/verticulium wilt644_.jpg,tomato|verticillium_wilt,3
+Tomato verticulium wilt/verticulium wilt645_.jpg,Tomato verticulium wilt/verticulium wilt646_.jpg,tomato|verticillium_wilt,3
+Tomato verticulium wilt/verticulium wilt645_.jpg,Tomato verticulium wilt/verticulium wilt647_.jpg,tomato|verticillium_wilt,3
+Tomato verticulium wilt/verticulium wilt645_.jpg,Tomato verticulium wilt/verticulium wilt704_.jpg,tomato|verticillium_wilt,4
+Tomato verticulium wilt/verticulium wilt645_.jpg,Tomato verticulium wilt/verticulium wilt715_.jpg,tomato|verticillium_wilt,2
+Tomato verticulium wilt/verticulium wilt646_.jpg,Tomato verticulium wilt/verticulium wilt647_.jpg,tomato|verticillium_wilt,0
+Tomato verticulium wilt/verticulium wilt646_.jpg,Tomato verticulium wilt/verticulium wilt704_.jpg,tomato|verticillium_wilt,1
+Tomato verticulium wilt/verticulium wilt646_.jpg,Tomato verticulium wilt/verticulium wilt715_.jpg,tomato|verticillium_wilt,3
+Tomato verticulium wilt/verticulium wilt647_.jpg,Tomato verticulium wilt/verticulium wilt704_.jpg,tomato|verticillium_wilt,1
+Tomato verticulium wilt/verticulium wilt647_.jpg,Tomato verticulium wilt/verticulium wilt715_.jpg,tomato|verticillium_wilt,3
+Tomato verticulium wilt/verticulium wilt648_.jpg,Tomato verticulium wilt/verticulium wilt723_.jpg,tomato|verticillium_wilt,2
+Tomato verticulium wilt/verticulium wilt648_.jpg,Tomato verticulium wilt/verticulium wilt724_.jpg,tomato|verticillium_wilt,2
+Tomato verticulium wilt/verticulium wilt648_.jpg,Tomato verticulium wilt/verticulium wilt725_.jpg,tomato|verticillium_wilt,4
+Tomato verticulium wilt/verticulium wilt648_.jpg,Tomato verticulium wilt/verticulium wilt726_.jpg,tomato|verticillium_wilt,2
+Tomato verticulium wilt/verticulium wilt678_.jpg,Tomato verticulium wilt/verticulium wilt679_.jpg,tomato|verticillium_wilt,2
+Tomato verticulium wilt/verticulium wilt678_.jpg,Tomato verticulium wilt/verticulium wilt708_.jpg,tomato|verticillium_wilt,2
+Tomato verticulium wilt/verticulium wilt679_.jpg,Tomato verticulium wilt/verticulium wilt683_.jpg,tomato|verticillium_wilt,4
+Tomato verticulium wilt/verticulium wilt679_.jpg,Tomato verticulium wilt/verticulium wilt708_.jpg,tomato|verticillium_wilt,0
+Tomato verticulium wilt/verticulium wilt683_.jpg,Tomato verticulium wilt/verticulium wilt708_.jpg,tomato|verticillium_wilt,4
+Tomato verticulium wilt/verticulium wilt700_.jpg,Tomato verticulium wilt/verticulium wilt701_.jpg,tomato|verticillium_wilt,4
+Tomato verticulium wilt/verticulium wilt704_.jpg,Tomato verticulium wilt/verticulium wilt715_.jpg,tomato|verticillium_wilt,4
+Tomato verticulium wilt/verticulium wilt705_.jpg,Tomato verticulium wilt/verticulium wilt706_.jpg,tomato|verticillium_wilt,1
+Tomato verticulium wilt/verticulium wilt705_.jpg,Tomato verticulium wilt/verticulium wilt716_.jpg,tomato|verticillium_wilt,2
+Tomato verticulium wilt/verticulium wilt705_.jpg,Tomato verticulium wilt/verticulium wilt717_.jpg,tomato|verticillium_wilt,2
+Tomato verticulium wilt/verticulium wilt706_.jpg,Tomato verticulium wilt/verticulium wilt716_.jpg,tomato|verticillium_wilt,3
+Tomato verticulium wilt/verticulium wilt706_.jpg,Tomato verticulium wilt/verticulium wilt717_.jpg,tomato|verticillium_wilt,1
+Tomato verticulium wilt/verticulium wilt709_.jpg,Tomato verticulium wilt/verticulium wilt710_.jpg,tomato|verticillium_wilt,2
+Tomato verticulium wilt/verticulium wilt710_.jpg,Tomato verticulium wilt/verticulium wilt741_.jpg,tomato|verticillium_wilt,3
+Tomato verticulium wilt/verticulium wilt710_.jpg,Tomato verticulium wilt/verticulium wilt742_.jpg,tomato|verticillium_wilt,4
+Tomato verticulium wilt/verticulium wilt710_.jpg,Tomato verticulium wilt/verticulium wilt744_.jpg,tomato|verticillium_wilt,4
+Tomato verticulium wilt/verticulium wilt716_.jpg,Tomato verticulium wilt/verticulium wilt717_.jpg,tomato|verticillium_wilt,4
+Tomato verticulium wilt/verticulium wilt719_.jpg,Tomato verticulium wilt/verticulium wilt720_.jpg,tomato|verticillium_wilt,2
+Tomato verticulium wilt/verticulium wilt723_.jpg,Tomato verticulium wilt/verticulium wilt724_.jpg,tomato|verticillium_wilt,2
+Tomato verticulium wilt/verticulium wilt723_.jpg,Tomato verticulium wilt/verticulium wilt726_.jpg,tomato|verticillium_wilt,4
+Tomato verticulium wilt/verticulium wilt724_.jpg,Tomato verticulium wilt/verticulium wilt725_.jpg,tomato|verticillium_wilt,4
+Tomato verticulium wilt/verticulium wilt724_.jpg,Tomato verticulium wilt/verticulium wilt726_.jpg,tomato|verticillium_wilt,2
+Tomato verticulium wilt/verticulium wilt725_.jpg,Tomato verticulium wilt/verticulium wilt726_.jpg,tomato|verticillium_wilt,2
+Tomato verticulium wilt/verticulium wilt728_.jpg,Tomato verticulium wilt/verticulium wilt729_.jpg,tomato|verticillium_wilt,4
+Tomato verticulium wilt/verticulium wilt734_.jpg,Tomato verticulium wilt/verticulium wilt735_.jpg,tomato|verticillium_wilt,3
+Tomato verticulium wilt/verticulium wilt736_.jpg,Tomato verticulium wilt/verticulium wilt737_.jpg,tomato|verticillium_wilt,3
+Tomato verticulium wilt/verticulium wilt738_.jpg,Tomato verticulium wilt/verticulium wilt739_.jpg,tomato|verticillium_wilt,3
+Tomato verticulium wilt/verticulium wilt741_.jpg,Tomato verticulium wilt/verticulium wilt742_.jpg,tomato|verticillium_wilt,3
+Tomato verticulium wilt/verticulium wilt741_.jpg,Tomato verticulium wilt/verticulium wilt743_.jpg,tomato|verticillium_wilt,4
+Tomato verticulium wilt/verticulium wilt742_.jpg,Tomato verticulium wilt/verticulium wilt743_.jpg,tomato|verticillium_wilt,1
+Tomato verticulium wilt/verticulium wilt742_.jpg,Tomato verticulium wilt/verticulium wilt744_.jpg,tomato|verticillium_wilt,2
+Tomato verticulium wilt/verticulium wilt743_.jpg,Tomato verticulium wilt/verticulium wilt744_.jpg,tomato|verticillium_wilt,1
+Tomato verticulium wilt/verticulium wilt747_.jpg,Tomato verticulium wilt/verticulium wilt748_.jpg,tomato|verticillium_wilt,3
+Tomato verticulium wilt/verticulium wilt749_.jpg,Tomato verticulium wilt/verticulium wilt750_.jpg,tomato|verticillium_wilt,3

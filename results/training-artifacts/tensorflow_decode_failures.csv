@@ -1,0 +1,3 @@
+path,label,error
+Maize leaf beetle/leaf beetle325_.jpg,maize|leaf_beetle,InvalidArgumentError: {{function_node __wrapped__DecodeImage_device_/job:localhost/replica:0/task:0/device:CPU:0}} jpeg::Uncompress failed. Invalid JPEG data or crop window. [Op:DecodeImage] name: 
+Tomato leaf curl/leaf curl185_.jpg,tomato|leaf_curl,InvalidArgumentError: {{function_node __wrapped__DecodeImage_device_/job:localhost/replica:0/task:0/device:CPU:0}} jpeg::Uncompress failed. Invalid JPEG data or crop window. [Op:DecodeImage] name: 

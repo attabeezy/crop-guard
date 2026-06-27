@@ -1,10 +1,13 @@
 package org.cropguard.app;
 
+import android.Manifest;
+import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.graphics.ImageDecoder;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
-import android.provider.MediaStore;
 import android.view.Gravity;
 import android.view.View;
 import android.widget.ArrayAdapter;
@@ -18,12 +21,16 @@ import android.widget.Toast;
 
 import androidx.activity.result.ActivityResultLauncher;
 import androidx.activity.result.contract.ActivityResultContracts;
+import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.content.ContextCompat;
 import androidx.core.content.FileProvider;
 
 import com.google.android.material.card.MaterialCardView;
 
 import java.io.File;
+import java.io.IOException;
+import java.io.InputStream;
 import java.util.Locale;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -46,6 +53,16 @@ public final class MainActivity extends AppCompatActivity {
     private final ActivityResultLauncher<String> gallery =
             registerForActivityResult(new ActivityResultContracts.GetContent(), uri -> {
                 if (uri != null) loadImage(uri);
+            });
+    private final ActivityResultLauncher<String> cameraPermission =
+            registerForActivityResult(new ActivityResultContracts.RequestPermission(), granted -> {
+                if (granted) {
+                    launchCamera();
+                } else {
+                    Toast.makeText(this,
+                            "Camera permission is required to take a photo. You can still choose one from the gallery.",
+                            Toast.LENGTH_LONG).show();
+                }
             });
 
     @Override protected void onCreate(Bundle savedInstanceState) {
@@ -129,6 +146,15 @@ public final class MainActivity extends AppCompatActivity {
     }
 
     private void takePhoto() {
+        if (ContextCompat.checkSelfPermission(this, Manifest.permission.CAMERA)
+                == PackageManager.PERMISSION_GRANTED) {
+            launchCamera();
+        } else {
+            cameraPermission.launch(Manifest.permission.CAMERA);
+        }
+    }
+
+    private void launchCamera() {
         try {
             File dir = new File(getCacheDir(), "captures");
             if (!dir.exists() && !dir.mkdirs()) throw new IllegalStateException("Cannot create capture folder");
@@ -142,16 +168,45 @@ public final class MainActivity extends AppCompatActivity {
 
     private void loadImage(Uri uri) {
         try {
-            ImageDecoder.Source source = ImageDecoder.createSource(getContentResolver(), uri);
-            selectedImage = ImageDecoder.decodeBitmap(source, (decoder, info, src) -> {
-                decoder.setAllocator(ImageDecoder.ALLOCATOR_SOFTWARE);
-                int max = Math.max(info.getSize().getWidth(), info.getSize().getHeight());
-                if (max > 1600) decoder.setTargetSampleSize((int) Math.ceil(max / 1600.0));
-            });
+            Bitmap previousImage = selectedImage;
+            selectedImage = Build.VERSION.SDK_INT >= Build.VERSION_CODES.P
+                    ? decodeModern(uri)
+                    : decodeLegacy(uri);
+            if (previousImage != null && previousImage != selectedImage) previousImage.recycle();
             preview.setImageBitmap(selectedImage);
             resultContent.setVisibility(View.GONE);
         } catch (Exception error) {
             Toast.makeText(this, "Could not read that image.", Toast.LENGTH_LONG).show();
+        }
+    }
+
+    @RequiresApi(Build.VERSION_CODES.P)
+    private Bitmap decodeModern(Uri uri) throws IOException {
+        ImageDecoder.Source source = ImageDecoder.createSource(getContentResolver(), uri);
+        return ImageDecoder.decodeBitmap(source, (decoder, info, src) -> {
+            decoder.setAllocator(ImageDecoder.ALLOCATOR_SOFTWARE);
+            int max = Math.max(info.getSize().getWidth(), info.getSize().getHeight());
+            if (max > 1600) decoder.setTargetSampleSize((int) Math.ceil(max / 1600.0));
+        });
+    }
+
+    private Bitmap decodeLegacy(Uri uri) throws IOException {
+        BitmapFactory.Options bounds = new BitmapFactory.Options();
+        bounds.inJustDecodeBounds = true;
+        try (InputStream input = getContentResolver().openInputStream(uri)) {
+            if (input == null) throw new IOException("Image is unavailable");
+            BitmapFactory.decodeStream(input, null, bounds);
+        }
+
+        int max = Math.max(bounds.outWidth, bounds.outHeight);
+        if (max <= 0) throw new IOException("Image dimensions are invalid");
+        BitmapFactory.Options options = new BitmapFactory.Options();
+        while (max / options.inSampleSize > 1600) options.inSampleSize *= 2;
+        try (InputStream input = getContentResolver().openInputStream(uri)) {
+            if (input == null) throw new IOException("Image is unavailable");
+            Bitmap bitmap = BitmapFactory.decodeStream(input, null, options);
+            if (bitmap == null) throw new IOException("Image format is unsupported");
+            return bitmap;
         }
     }
 

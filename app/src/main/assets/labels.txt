@@ -1,0 +1,14 @@
+# Replace this file with the labels exported beside model.tflite.
+# Canonical format: crop|machine_class|farmer-facing name
+maize|healthy|Healthy maize
+maize|fall_armyworm|Fall armyworm damage
+maize|leaf_blight|Maize leaf blight
+maize|leaf_spot|Maize leaf spot
+maize|streak_virus|Maize streak virus
+cassava|healthy|Healthy cassava
+cassava|mosaic_disease|Cassava mosaic disease
+cassava|brown_streak|Cassava brown streak disease
+cashew|healthy|Healthy cashew
+cashew|anthracnose|Cashew anthracnose
+cashew|leaf_miner|Cashew leaf miner damage
+

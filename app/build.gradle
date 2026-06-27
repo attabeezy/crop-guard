@@ -1,0 +1,44 @@
+plugins {
+    id "com.android.application"
+}
+
+android {
+    namespace "org.cropguard.app"
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "org.cropguard.app"
+        minSdk 26
+        targetSdk 35
+        versionCode 1
+        versionName "2.0.0"
+    }
+
+    buildFeatures {
+        buildConfig true
+    }
+
+    buildTypes {
+        debug {
+            buildConfigField "boolean", "ALLOW_DEMO_MODE", "true"
+        }
+        release {
+            minifyEnabled true
+            shrinkResources true
+            buildConfigField "boolean", "ALLOW_DEMO_MODE", "false"
+            proguardFiles getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro"
+        }
+    }
+
+    packaging {
+        resources.excludes += ["META-INF/DEPENDENCIES", "META-INF/LICENSE*"]
+    }
+}
+
+dependencies {
+    implementation "androidx.appcompat:appcompat:1.7.0"
+    implementation "com.google.android.material:material:1.12.0"
+    implementation "org.tensorflow:tensorflow-lite:2.17.0"
+    testImplementation "junit:junit:4.13.2"
+}
+

@@ -1,0 +1,17 @@
+{
+  "healthy": {
+    "summary": "No disease action is indicated by this scan.",
+    "steps": ["Keep monitoring new growth.", "Use clean tools and good field hygiene.", "Scan again if symptoms change."],
+    "authority": "General crop monitoring guidance; verify with MOFA/PPRSD or a local extension officer."
+  },
+  "uncertain": {
+    "summary": "The image cannot be diagnosed reliably.",
+    "steps": ["Retake one leaf in bright, even light.", "Fill most of the frame and avoid hands or soil.", "If symptoms persist, contact a district agricultural extension officer."],
+    "authority": "Safety fallback — no chemical recommendation is made."
+  },
+  "default": {
+    "summary": "This result needs confirmation before treatment.",
+    "steps": ["Isolate or mark the affected plant where practical.", "Photograph both sides of several affected leaves.", "Ask a MOFA/PPRSD or COCOBOD/CRIG officer to confirm the diagnosis and current approved control."],
+    "authority": "CropGuard does not invent pesticide products, dosages, or schedules. Verified protocols must be added before release."
+  }
+}

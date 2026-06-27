@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.CropGuard" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/forest</item>
+        <item name="colorSecondary">@color/leaf</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/forest</item>
+    </style>
+</resources>
+

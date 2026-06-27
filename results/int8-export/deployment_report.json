@@ -1,0 +1,36 @@
+{
+  "tensorflow_version": "2.20.0",
+  "source_model_commit": "08d86ed7807075b195a43acb80e11ef738ee4b28",
+  "source_model_sha256": "14c7ed601c3bebd64238a1a3375c1653bc6017009df645a22878241525e0aa9d",
+  "audit_commit": "4c8b366df4c251d6424258c3cb74a58f2289ee16",
+  "evaluation_commit": "519f759b7fad88668f9ec5511dc631ccf3e81494",
+  "representative_images": 500,
+  "representative_classes": 22,
+  "parity_limits": {
+    "maximum_accuracy_drop": 0.01,
+    "maximum_macro_f1_drop": 0.015,
+    "minimum_prediction_agreement": 0.98
+  },
+  "parity": {
+    "float_accuracy": 0.8497193930575764,
+    "int8_accuracy": 0.8343379754728747,
+    "accuracy_drop": 0.015381417584701684,
+    "float_macro_f1": 0.8449419626192841,
+    "int8_macro_f1": 0.833260023516583,
+    "macro_f1_drop": 0.0116819391027011,
+    "prediction_agreement": 0.9349407607565995,
+    "changed_predictions": 313,
+    "acceptance_decision_agreement": 0.9218457701101642,
+    "int8_coverage": 0.890667220951985,
+    "int8_accepted_accuracy": 0.8816802800466744,
+    "status": "fail"
+  },
+  "latency": {
+    "environment": "Google Colab CPU; not Android device latency",
+    "threads": 4,
+    "runs": 100,
+    "median_ms": 33.61440550008865,
+    "p95_ms": 36.86069265011155
+  },
+  "release_eligible": false
+}

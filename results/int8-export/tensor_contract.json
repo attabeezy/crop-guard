@@ -1,0 +1,38 @@
+{
+  "model_sha256": "7b72f3026a10745273e256f62d78ea253997951d477f973a5670a19225e0ceb6",
+  "model_size_bytes": 7161720,
+  "input": {
+    "shape": [
+      1,
+      224,
+      224,
+      3
+    ],
+    "dtype": "uint8",
+    "quantization_scale": 1.000000238418579,
+    "quantization_zero_point": 0,
+    "source_pixel_range": [
+      0.0,
+      255.0
+    ],
+    "resize": [
+      224,
+      224
+    ]
+  },
+  "output": {
+    "shape": [
+      1,
+      22
+    ],
+    "dtype": "uint8",
+    "quantization_scale": 0.00390625,
+    "quantization_zero_point": 0,
+    "class_order_file": "labels.txt"
+  },
+  "postprocessing": {
+    "temperature": 1.0042804004251118,
+    "confidence_threshold": 0.53,
+    "formula": "softmax(log(clip(probabilities,1e-8,1))/temperature)"
+  }
+}

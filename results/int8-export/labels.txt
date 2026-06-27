@@ -1,0 +1,22 @@
+cashew|anthracnose|Cashew — Anthracnose
+cashew|gummosis|Cashew — Gummosis
+cashew|healthy|Cashew — Healthy
+cashew|leaf_miner|Cashew — Leaf miner damage
+cashew|red_rust|Cashew — Red Rust
+cassava|bacterial_blight|Cassava — Bacterial Blight
+cassava|brown_spot|Cassava — Brown Spot
+cassava|green_mite|Cassava — Green mite damage
+cassava|healthy|Cassava — Healthy
+cassava|mosaic|Cassava — Mosaic
+maize|fall_armyworm|Maize — Fall armyworm damage
+maize|grasshopper|Maize — Grasshopper damage
+maize|healthy|Maize — Healthy
+maize|leaf_beetle|Maize — Leaf beetle damage
+maize|leaf_blight|Maize — Leaf Blight
+maize|leaf_spot|Maize — Leaf Spot
+maize|streak_virus|Maize — Streak Virus
+tomato|healthy|Tomato — Healthy
+tomato|leaf_blight|Tomato — Leaf Blight
+tomato|leaf_curl|Tomato — Leaf Curl
+tomato|septoria_leaf_spot|Tomato — Septoria Leaf Spot
+tomato|verticillium_wilt|Tomato — Verticillium Wilt

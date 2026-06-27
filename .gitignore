@@ -3,11 +3,9 @@
 local.properties
 **/build/
 *.iml
-app/src/main/assets/model.tflite
 data/
 artifacts/
 .env
 kaggle.json
 __pycache__/
 *.pyc
-

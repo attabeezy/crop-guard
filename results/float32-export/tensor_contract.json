@@ -1,0 +1,34 @@
+{
+  "model_sha256": "6871c3eab20d90f38b5e6b9ad297c0b7d6d15b1b4cd6acefbd7a18a4757a06e8",
+  "model_size_bytes": 23532928,
+  "input": {
+    "shape": [
+      1,
+      224,
+      224,
+      3
+    ],
+    "dtype": "float32",
+    "source_pixel_range": [
+      0.0,
+      255.0
+    ],
+    "resize": [
+      224,
+      224
+    ]
+  },
+  "output": {
+    "shape": [
+      1,
+      22
+    ],
+    "dtype": "float32",
+    "class_order_file": "labels.txt"
+  },
+  "postprocessing": {
+    "temperature": 1.0042804004251118,
+    "confidence_threshold": 0.53,
+    "formula": "softmax(log(clip(probabilities,1e-8,1))/temperature)"
+  }
+}

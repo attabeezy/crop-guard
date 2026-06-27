@@ -20,7 +20,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 final class ModelClassifier implements Closeable {
-    static final float CONFIDENCE_THRESHOLD = 0.72f;
+    static final float CONFIDENCE_THRESHOLD = 0.53f;
+    private static final float CONFIDENCE_TEMPERATURE = 1.0042804f;
 
     private final List<Label> labels;
     private Interpreter interpreter;
@@ -61,7 +62,7 @@ final class ModelClassifier implements Closeable {
             Label placeholder = firstForCrop(selectedCrop);
             return new Diagnosis(placeholder, 0f, true, true);
         }
-        float[] probabilities = run(source);
+        float[] probabilities = calibrate(run(source));
         int best = -1;
         float confidence = -1f;
         for (int i = 0; i < probabilities.length; i++) {
@@ -86,14 +87,21 @@ final class ModelClassifier implements Closeable {
         int zero = tensor.quantizationParams().getZeroPoint();
         for (int pixel : pixels) {
             float[] channels = {
-                    ((pixel >> 16) & 0xff) / 255f,
-                    ((pixel >> 8) & 0xff) / 255f,
-                    (pixel & 0xff) / 255f
+                    (pixel >> 16) & 0xff,
+                    (pixel >> 8) & 0xff,
+                    pixel & 0xff
             };
             for (float channel : channels) {
                 if (inputType == DataType.FLOAT32) input.putFloat(channel);
-                else if (inputType == DataType.INT8) input.put((byte) Math.round(channel / scale + zero));
-                else input.put((byte) Math.round(channel / scale + zero));
+                else {
+                    int quantized = Math.round(channel / scale + zero);
+                    if (inputType == DataType.INT8) {
+                        quantized = Math.max(-128, Math.min(127, quantized));
+                    } else {
+                        quantized = Math.max(0, Math.min(255, quantized));
+                    }
+                    input.put((byte) quantized);
+                }
             }
         }
         Tensor outputTensor = interpreter.getOutputTensor(0);
@@ -113,6 +121,20 @@ final class ModelClassifier implements Closeable {
             int raw = outputTensor.dataType() == DataType.INT8 ? output.get() : output.get() & 0xff;
             probabilities[i] = (raw - outputZero) * outputScale;
         }
+        return probabilities;
+    }
+
+    private static float[] calibrate(float[] probabilities) {
+        float sum = 0f;
+        for (int i = 0; i < probabilities.length; i++) {
+            float clipped = Math.max(1e-8f, Math.min(1f, probabilities[i]));
+            probabilities[i] = (float) Math.exp(Math.log(clipped) / CONFIDENCE_TEMPERATURE);
+            sum += probabilities[i];
+        }
+        if (sum <= 0f || !Float.isFinite(sum)) {
+            throw new IllegalStateException("Model returned invalid probabilities");
+        }
+        for (int i = 0; i < probabilities.length; i++) probabilities[i] /= sum;
         return probabilities;
     }
 
@@ -149,4 +171,3 @@ final class ModelClassifier implements Closeable {
         if (interpreter != null) interpreter.close();
     }
 }
-

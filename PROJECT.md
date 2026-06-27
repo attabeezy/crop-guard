@@ -102,10 +102,10 @@ This is the make-or-break section. Crop-disease models commonly cheat by learnin
 | Phase | What | Where | Status |
 |---|---|---|---|
 | 0 | Setup & accounts (Colab, Kaggle token, GitHub) | local | ✅ essentially done |
-| 1 | Data: download CCMT, inspect, clean split, augmentation setup | Colab | ▶️ in progress |
-| 2 | Model: transfer learning + fine-tuning, INT8 quantization, export labels | Colab | ⏳ |
-| 3 | Evaluation: per-class metrics, confusion matrix, OOD test, Grad-CAM | Colab | ⏳ |
-| 4 | Android app: build from scratch, integrate model, confidence gate, Grad-CAM, treatment layer | Android Studio | ⏳ |
+| 1 | Data: download CCMT, inspect, clean split, augmentation setup | Colab | ✅ complete |
+| 2 | Model: transfer learning + fine-tuning, deployment export, labels | Colab | ✅ complete (float32 shipped; INT8 rejected) |
+| 3 | Evaluation: per-class metrics, confusion matrix, OOD test, Grad-CAM | Colab | ▶️ core test complete; field/OOD pending |
+| 4 | Android app: build from scratch, integrate model, confidence gate, Grad-CAM, treatment layer | Android Studio | ▶️ model integrated; explanations/protocols pending |
 | 5 | Docs & submission: README, technical report, 1–2 page challenge document | — | ⏳ |
 
 We work **phase by phase** and only move forward when the current phase is solid.

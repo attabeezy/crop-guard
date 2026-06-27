@@ -8,22 +8,24 @@ must not be used as the sole basis for pesticide application.
 
 ## Data
 
-Planned primary source: CCMT Crop Pest and Disease Detection, DOI
-`10.17632/bwh3zbpkpv`, collected in Ghana. Before release, record the exact
-download version, files, ownership, license, restrictions, class counts,
-deduplication results, exclusions, and split manifest hashes.
+Primary source: CCMT Crop Pest and Disease Detection, DOI
+`10.17632/bwh3zbpkpv.1`, collected in Ghana and licensed CC BY 4.0. Training
+used version 1 of the Kaggle mirror `nirmalsankalana/crop-pest-and-disease-detection`.
+The mirror's counts differ from the published Mendeley totals; this discrepancy
+is preserved in the audit rather than silently ignored.
 
-The split script groups byte-identical images to prevent exact duplicates from
-crossing train, validation, and test. This does not detect near-duplicates;
-perceptual-hash and manual burst inspection remain release gates.
+The audit removed corrupt images and exact duplicates, excluded exact files
+assigned conflicting labels, and grouped likely perceptual near-duplicates so
+their groups cannot cross train, validation, and test.
 
 ## Evaluation protocol
 
-The training script reserves a held-out test partition, emits per-class
-precision/recall/F1 and a confusion matrix, and uses training images only as the
-INT8 representative set. Report macro F1, per-class recall (especially healthy),
-calibration error, abstention coverage/accuracy, model size, and device latency.
-Add a separately sourced phone-photo/OOD set without tuning on it.
+The selected fine-tuned EfficientNetV2B0 achieved 84.97% accuracy and 84.49%
+macro-F1 on 4,811 held-out images. At the validation-locked 0.53 confidence
+threshold, test coverage was 90.06% and accepted-case accuracy was 89.48%.
+Float32 TFLite conversion produced identical predicted classes on all test
+images. Full INT8 conversion was rejected after accuracy fell to 83.43% and
+prediction agreement fell to 93.49%.
 
 ## Explainability
 
@@ -36,6 +38,8 @@ pathology expert.
 
 ## Known limitations
 
-No trained weights, verified class inventory, calibration study, field/OOD test,
-near-duplicate audit, or agronomist-reviewed treatment dataset is included in
-this source repository yet. Debug demo mode always abstains.
+Tomato disease separation is the weakest area, with disease-class F1 scores from
+56.1% to 68.7%. Maize healthy precision is 60.3% on only 41 test examples.
+No separately collected phone/OOD evaluation or agronomist-reviewed treatment
+dataset is included yet. Grad-CAM review was mixed and does not yet justify a
+lesion-level explainability claim.

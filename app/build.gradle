@@ -12,6 +12,7 @@ android {
         targetSdk 35
         versionCode 1
         versionName "2.0.0"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
     buildFeatures {
@@ -33,6 +34,10 @@ android {
     packaging {
         resources.excludes += ["META-INF/DEPENDENCIES", "META-INF/LICENSE*"]
     }
+
+    androidResources {
+        noCompress += "tflite"
+    }
 }
 
 dependencies {
@@ -40,5 +45,6 @@ dependencies {
     implementation "com.google.android.material:material:1.12.0"
     implementation "org.tensorflow:tensorflow-lite:2.17.0"
     testImplementation "junit:junit:4.13.2"
+    androidTestImplementation "androidx.test.ext:junit:1.2.1"
+    androidTestImplementation "androidx.test:runner:1.6.2"
 }
-

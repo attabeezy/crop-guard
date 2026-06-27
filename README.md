@@ -6,6 +6,8 @@
 
 [![Open model training in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/attabeezy/crop-guard/blob/main/notebooks/03_train_model.ipynb)
 
+[![Open model evaluation in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/attabeezy/crop-guard/blob/main/notebooks/04_evaluate_model.ipynb)
+
 CropGuard is an offline-first Android screening tool for maize, cassava, cashew,
 and tomato leaf conditions. The application is deliberately fail-safe: if its model
 is missing or confidence is below 72%, it does not issue a disease diagnosis or

@@ -1,0 +1,31 @@
+{
+  "created_utc": "2026-06-27T04:17:17.514143+00:00",
+  "model_commit": "08d86ed7807075b195a43acb80e11ef738ee4b28",
+  "audit_commit": "4c8b366df4c251d6424258c3cb74a58f2289ee16",
+  "selection_metric": "validation_macro_f1",
+  "selected_checkpoint": "best_finetuned.keras",
+  "calibration": {
+    "temperature": 1.0042804004251118,
+    "validation_nll_before": 0.38052640374750313,
+    "validation_nll_after": 0.38052251296688344,
+    "validation_ece_before": 0.02260062015821718,
+    "validation_ece_after": 0.023277913721945463
+  },
+  "threshold_rule": "lowest threshold meeting accuracy and coverage targets",
+  "test": {
+    "checkpoint": "best_finetuned.keras",
+    "evaluated_images": 4811,
+    "decode_exclusions": 0,
+    "accuracy": 0.8497193930575764,
+    "macro_f1": 0.8449419626192841,
+    "weighted_f1": 0.849960805437846,
+    "log_loss_calibrated": 0.4049019164525104,
+    "ece_calibrated": 0.015047472130605592,
+    "temperature_locked_on_validation": 1.0042804004251118,
+    "confidence_threshold_locked_on_validation": 0.53,
+    "coverage": 0.9006443566826023,
+    "accepted_accuracy": 0.8947611354719593,
+    "abstained_images": 478
+  },
+  "test_set_used_for_tuning": false
+}

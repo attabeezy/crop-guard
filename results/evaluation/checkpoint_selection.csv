@@ -1,0 +1,3 @@
+checkpoint,validation_accuracy,validation_macro_f1,validation_log_loss
+best_finetuned.keras,0.8587991718426501,0.8576639061581921,0.38052640374750313
+best_frozen.keras,0.8451345755693582,0.846301006682065,0.4339080638802283

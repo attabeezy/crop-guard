@@ -1,5 +1,7 @@
 # CropGuard 2.0
 
+[![Open data setup in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/attabeezy/crop-guard/blob/main/notebooks/01_data_setup.ipynb)
+
 CropGuard is an offline-first Android screening tool for maize, cassava, and
 cashew leaf conditions. The application is deliberately fail-safe: if its model
 is missing or confidence is below 72%, it does not issue a disease diagnosis or
@@ -61,4 +63,3 @@ class mapping, field/OOD results, and dataset provenance have been reviewed.
   currently shipped.
 - Implement and validate an explanation-capable export before claiming Grad-CAM.
 - Test phone photos outside the training distribution and calibrate the threshold.
-

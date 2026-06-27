@@ -20,11 +20,14 @@ chemical recommendation.
 ## Current build status
 
 - Native Java Android application: camera/gallery input, crop selection,
-  on-device TFLite inference, confidence gate, and offline action-plan store.
+  runtime camera permission handling, on-device TFLite inference, confidence
+  gate, and offline action-plan store.
 - Leakage-resistant dataset manifest generation.
 - EfficientNetV2 transfer learning, fine-tuning, calibration, and held-out evaluation.
 - Release-eligible float32 TFLite model with zero conversion accuracy loss.
 - Failed INT8 parity results preserved rather than shipped.
+- Reproducible Gradle 8.9 wrapper with passing debug/release compilation and
+  Android lint.
 
 The CCMT images are not committed. Trained models are stored with Git LFS, and
 the Android application includes the validated float32 TFLite artifact.
@@ -35,9 +38,21 @@ does not expose gradients or activation maps. See [docs/MODEL_CARD.md](docs/MODE
 
 Prerequisites: Android Studio Ladybug or newer, JDK 17, Android SDK 35.
 
-1. Open this directory in Android Studio.
-2. Ensure Git LFS has downloaded `app/src/main/assets/model.tflite`.
+1. Ensure Git LFS has downloaded `app/src/main/assets/model.tflite`.
+2. Build from Android Studio, or run:
+
+   ```powershell
+   .\gradlew.bat lintDebug assembleDebug assembleRelease
+   ```
+
 3. Run the `app` configuration on Android 8.0 or newer.
+
+The debug build, cold startup, runtime camera permission prompt, and on-device
+model inference were verified on a Samsung SM-A047F running Android 14 on
+27 June 2026. Camera capture, gallery selection, all four crop flows, and the
+low-confidence fallback also passed a manual device check. The generated
+release APK is unsigned; configure a protected release signing key before
+distribution.
 
 Debug builds allow demo mode. Release builds fail at startup if the model is
 missing or incompatible. The output count must exactly match `labels.txt`.
@@ -76,3 +91,4 @@ class mapping, field/OOD results, and dataset provenance have been reviewed.
   currently shipped.
 - Implement and validate an explanation-capable export before claiming Grad-CAM.
 - Test phone photos outside the training distribution and calibrate the threshold.
+- Configure release signing and perform a final signed-APK installation check.

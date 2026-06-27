@@ -95,6 +95,14 @@ This is the make-or-break section. Crop-disease models commonly cheat by learnin
 - **App:** native Android (Java), offline TFLite inference, multi-crop selection, confidence gating, Grad-CAM overlay, treatment-protocol layer.
 - **Tooling:** training in **Google Colab** (free GPU); app built in **Android Studio**, tested on a physical Android phone over USB (avoids the heavy emulator).
 
+**Current implementation note (27 June 2026):** the Android app has verified
+camera/gallery input, runtime camera permission handling, crop selection,
+offline float32 TFLite inference, confidence gating, and safe generic action
+guidance. Debug/release compilation, lint, cold startup, and an instrumented
+model inference test pass on a Samsung SM-A047F. Grad-CAM, authority-reviewed
+disease-specific protocols, release signing, and field/OOD validation remain
+open and must not be presented as shipped features.
+
 ---
 
 ## 7. Phase plan
@@ -105,7 +113,7 @@ This is the make-or-break section. Crop-disease models commonly cheat by learnin
 | 1 | Data: download CCMT, inspect, clean split, augmentation setup | Colab | ✅ complete |
 | 2 | Model: transfer learning + fine-tuning, deployment export, labels | Colab | ✅ complete (float32 shipped; INT8 rejected) |
 | 3 | Evaluation: per-class metrics, confusion matrix, OOD test, Grad-CAM | Colab | ▶️ core test complete; field/OOD pending |
-| 4 | Android app: build from scratch, integrate model, confidence gate, Grad-CAM, treatment layer | Android Studio | ▶️ model integrated; explanations/protocols pending |
+| 4 | Android app: build from scratch, integrate model, confidence gate, Grad-CAM, treatment layer | Android Studio | ▶️ core app and device checks complete; signing, explanations, and reviewed protocols pending |
 | 5 | Docs & submission: README, technical report, 1–2 page challenge document | — | ⏳ |
 
 We work **phase by phase** and only move forward when the current phase is solid.
@@ -150,6 +158,7 @@ What we **keep** from the original: the offline-first edge approach, the COCOBOD
 - Decide whether to collect a small set of our own field photos (30–50) for an out-of-distribution / Ghanaian-validation test — high value if feasible before the deadline.
 - Confirm exact disease classes per crop once we inspect the CCMT folders.
 - Confirm the Kaggle mirror's tomato count discrepancy against the authoritative Mendeley archive.
+- Configure protected release signing and verify the signed APK on a physical device.
 
 ---
 
